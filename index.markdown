@@ -386,10 +386,9 @@ the event.  Make sure it's not all about the money/toys.
 ### Don't make people feel unwelcome
 
 Avoid sexism and other discriminatory language or attitudes. Don't make
-assumptions about your attendees in anything other than their abilities. Get
-someone who is demographically very different from you to check your marketing
-material through to see if it makes sense to someone who doesn't share your
-background.
+any assumptions about your attendees. Get someone who is demographically
+very different from you to check your marketing material through to see
+if it makes sense to someone who doesn't share your background.
 
 ### Do not charge attendees
 
