@@ -406,6 +406,9 @@ the attendees, and not to the organisers, sponsors, or partners, with the
 obvious exception of hack days based around the further development of an open
 source project.
 
+Intellectual property can be a big issue; it is best to make expectations clear 
+in advance, both to developers and to sponsors or data providers.
+
 ### What are you after?
 
 Have some idea what counts as success, but don't be too tight: people will
