@@ -456,5 +456,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Tom Scott](http://tomscott.com/)
 * [Hadley Beeman](http://twitter.com/hadleybeeman/)
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
+* [Jason Grant](http://flexewebs.com) Flexewebs
 
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
