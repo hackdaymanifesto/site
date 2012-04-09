@@ -73,15 +73,16 @@ footer p {
     }
 
     ul li {
+        color: #999;
+        font-size: 12px;
         float: left;
         min-height: 40px;
         width: 33%;
     }
 
-    ul em {
-        color: #999;
+    ul a {
         display: block;
-        font-size: 12px;
+        font-size: 16px;
     }
 }
 
