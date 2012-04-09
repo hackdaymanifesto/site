@@ -445,5 +445,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 ## Supporters
 
 * [Daniel Knell](http://danielknell.co.uk/) _Artisan of Code_
+* [Tom Morris](http://tommorris.org/)
 
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
