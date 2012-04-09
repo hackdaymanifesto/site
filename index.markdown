@@ -57,7 +57,7 @@ available away from the hacking should people decide to sleep. If possible, this
 should be several areas potentially including dedicated areas, for example
 male/female/mixed, snorer/non-snorer, night-owls/early birds.
 
-### Showers Optional
+### Showers _Optional_
 
 Despite the stereotypes, most geeks like to keep clean. Only a few venues are
 able to provide showers - but if you can, you should. Make sure you tell
@@ -122,12 +122,12 @@ you should use.
 Traffic shaping and monitoring should be employed to help prevent a few users
 abusing the connection to the detriment of all others.
 
-### Single subnet Optional
+### Single subnet _Optional_
 
 Both wifi and ethernet should share a single subnet, allowing devices to
 communicate regardless of how they are connected to the network.
 
-### Ethernet to the Chair Optional
+### Ethernet to the Chair _Optional_
 
 At least fast ethernet feeding into a gigabit backbone arranged in a star or
 extended star topology.
@@ -146,7 +146,7 @@ As stated above, your attendees will be bringing two, three, or more devices
 making full PAT tests for every device an impossible endeavour. But if you are
 providing a lot of power strips it can be worth getting them tested.
 
-### Isolated power for hardware hacks Optional
+### Isolated power for hardware hacks _Optional_
 
 Isolating the power for those doing hardware hacks is generally a good idea,
 don't let one soldering iron knock out the entire venues power.
@@ -269,7 +269,7 @@ could disappear or will incur usage fees after an event, try to avoid companies
 making resources available only for the duration the event and communicate
 clearly the risk of building on top of any alpha or beta APIs.
 
-### Local API testbeds Optional
+### Local API testbeds _Optional_
 
 Where possible test servers for the APIs should be setup on the local network,
 this allows development to continue in the event of internet failure, and also
@@ -306,7 +306,7 @@ prize for it relatively small, and give attendees a one-time token (a code on
 the reverse of their pass for large events, or a physical item for smaller ones)
 in order to vote.
 
-### Judge previews Optional
+### Judge previews _Optional_
 
 If possible, let the judges meet all the teams for a few minutes, a couple of
 hours before the presentations. This means people don't need to cram their whole
