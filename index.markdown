@@ -448,5 +448,9 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 * [Daniel Knell](http://danielknell.co.uk/) _Artisan of Code_
 * [Tom Morris](http://tommorris.org/)
+* [Kevin Prince](http://geeksoflondon.com/) Geeks of London
+* [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
+* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
+
 
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
