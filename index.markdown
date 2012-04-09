@@ -117,6 +117,9 @@ such as Twitter, Google, and Freenode in advance to inform them of the increased
 number of connections from your IP range; they may have an existing process that
 you should use.
 
+For Freenode, email [iline@freenode.net](mailto:iline@freenode.net) with dates,
+expected number of attendees and IP addresses if possible.
+
 ### QoS and Monitoring
 
 Traffic shaping and monitoring should be employed to help prevent a few users
