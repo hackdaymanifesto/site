@@ -448,5 +448,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
 * [Tom Morris](http://tommorris.org/)
+* [Tom Scott](http://tomscott.com/)
 
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
