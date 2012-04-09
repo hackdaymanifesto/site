@@ -200,12 +200,11 @@ attendees throughout the event. Try to ensure there are healthy options too.
 
 ### Alcohol
 
-Should be served as if you are the landlord in your local pub because, in fact,
+Should be served as if you are the owner of your local bar because, in fact,
 you are. Check licensing rules with the venue, including where and when alcohol
-can be served and consumed and what time you need to ring the bell for last
-orders. If you have underage attendees, make sure they're not served alcohol.
-Penalties for failing to do this range from a fine to imprisonment for the
-person providing alcohol and loss of licence for the venue.
+can be served and consumed and what time you need to stop serving. If you have underage attendees, 
+make sure they're not served alcohol. Penalties for failing to do this range 
+from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
 
 ## APIs / Datasets
 
