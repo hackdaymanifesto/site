@@ -393,11 +393,11 @@ if it makes sense to someone who doesn't share your background.
 ### Do not charge attendees
 
 If developers are willing to donate their time -- which could otherwise be used
-for paying clients, family, and friends -- they should not be charged for
-tickets. It shows a complete disrespect for the value of their time, and is
-likely to leave a bad feeling towards the organisers and sponsors. The
-developers are providing the sponsors a service in testing and showing the
-possibility of their APIs, data, products and services.
+for paid work or hanging out with family and friends -- they should not be
+charged for tickets. It shows a complete disrespect for the value of their
+time, and is likely to leave a bad feeling towards the organisers and
+sponsors. The developers are providing the sponsors a service in testing and
+showing the possibility of their APIs, data, products and services.
 
 ### Intellectual property
 
