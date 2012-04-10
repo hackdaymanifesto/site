@@ -464,6 +464,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Tom Morris](http://tommorris.org/)
 * [Tom Scott](http://tomscott.com/)
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
+* [Jonathan Markwell](http://inuda.org/) Inuda Community
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 
