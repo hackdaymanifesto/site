@@ -294,7 +294,9 @@ was built.
 ### Time limit
 
 Each demo should be given a fixed time limit, standard times are 60, 90, 180,
-and 300 seconds. Tell presenters in advance and don't let them run over.
+and 300 seconds. Give presenters some method of knowing how much time remains 
+to them (either half time cards or an on-screen count down). Don't let them 
+run over.
 
 ### Clear expectations
 
