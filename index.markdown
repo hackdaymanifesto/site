@@ -22,20 +22,22 @@ publicly accessible.
 ### Registration _Optional_
 
 If you require your attendees to register, make it clear what information is
-required for signing up and what the deadline for the registration is. If there's
-a maximum number of attendees the venue can handle, communicate how the selection
-process works and when/how people will be notified if they've been granted
-attendance or not.
+required for signing up and what the deadline for the registration is. If
+there's a maximum number of attendees the venue can handle, communicate how the
+selection process works and when/how people will be notified if they've been
+granted attendance or not.
 
 If there's a waiting list for the event, make sure to explain how it works.
 
 #### What to ask for
 
-There are a number of things you could ask for, but a bare minimum would be:
+Most registration forms lets applicants enter name, contact details and food
+preferences/allergies (if applicable). Depending on your event and your venue,
+you might want to ask for additional information - this manifest lists a few
+other topics which might make sense to add to the registration form.
 
-* Name
-* Contact details
-* Food preferences / allergies (if food is served)
+There are also a number of things you probably should _not_ ask for, like sex,
+religious preferences etc.
 
 ## Venue
 
