@@ -463,4 +463,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 </div>
 
+[Fork this project on GitHub][github], add yourself, and send us a pull request.
+
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
+[github]: https://github.com/hackdaymanifesto/hackdaymanifesto.github.com/ "Fork on GitHub"
