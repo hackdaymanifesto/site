@@ -469,6 +469,8 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
+* [Colin Loretz](http://renocollective.com/) Reno Collective/Hack4Reno
+* [Don Morrison](http://renocollective.com/) Reno Collective/Hack4Reno
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
 * [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
 * [Abe Stanway](http://hackerleague.org) Hacker League
