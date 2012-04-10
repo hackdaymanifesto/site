@@ -132,8 +132,9 @@ communicate regardless of how they are connected to the network.
 
 ### Ethernet to the Chair _Optional_
 
-At least fast ethernet feeding into a gigabit backbone arranged in a star or
-extended star topology.
+In case of WiFi collapse you should have ethernet available at the chairs, 
+at least fast ethernet feeding into a gigabit backbone arranged in a star 
+or extended star topology.
 
 ## Power
 
@@ -293,7 +294,9 @@ was built.
 ### Time limit
 
 Each demo should be given a fixed time limit, standard times are 60, 90, 180,
-and 300 seconds. Tell presenters in advance and don't let them run over.
+and 300 seconds. Give presenters some method of knowing how much time remains 
+to them (either half time cards or an on-screen count down). Don't let them 
+run over.
 
 ### Clear expectations
 
@@ -471,6 +474,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
+* [Sam Cook](http://samlr.com/)
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Seyi Ogunyemi](http://micrypt.com/)
 * [Matthew Cashmore](http://thelondonbiker.com) Hack Day Organiser
