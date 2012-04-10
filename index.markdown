@@ -50,7 +50,7 @@ lockers, can you run a cloakroom system?
 Are the rooms going to be available to non-attendees? Work out whether you are
 running a secure site and whether people need to bring photo ID; if so, tell
 them when they sign up and remind them close to the event date. For some people,
-showing photo ID may be a deal breaker. Not everyone will have 
+showing photo ID may be a deal breaker. Not everyone will have
 'Government issued ID', either.
 
 Providing proof of address is, increasingly troublesome.
@@ -92,9 +92,9 @@ attendee.
 ### Minimal firewalling
 
 As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP),
-VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP), 
-HTTPS (443), Submission (587), IMAPS (993), MSN Messenger (1863), 
-CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9), 
+VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP),
+HTTPS (443), Submission (587), IMAPS (993), MSN Messenger (1863),
+CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
 and Git (9418), must be open and accessible, without the need of
 proxy servers, and preferably without perimeter-level malware &c
 checks.
@@ -211,7 +211,7 @@ supplying something that can still be eaten after it has gone cold.
 
 ### Drinks
 
-A selection of coffee, green and black tea (plus milks, sugars), energy drinks, 
+A selection of coffee, green and black tea (plus milks, sugars), energy drinks,
 caffeinated and non-caffeinated soft drinks, juices and water should be freely available to
 attendees throughout the event.
 
@@ -514,6 +514,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Swift](http://hackerleague.org/) Hacker League
 * [Margaret Gold] (http://overtheair.org) Over the Air
 * [Sheila Thomson] (http://kaikoda.com) Kaikoda
+* [Alexey Komissarouk] (http://pennapps.com) PennApps
 
 </div>
 
