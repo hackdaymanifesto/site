@@ -450,16 +450,16 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 <div class="supporters" markdown='1'>
 
+* [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
+* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
-* [Tom Morris](http://tommorris.org/)
+* [Hadley Beeman](http://twitter.com/hadleybeeman/)
+* [Jason Grant](http://flexewebs.com) Flexewebs
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
-* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
+* [Tom Morris](http://tommorris.org/)
 * [Tom Scott](http://tomscott.com/)
-* [Hadley Beeman](http://twitter.com/hadleybeeman/)
-* [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
-* [Jason Grant](http://flexewebs.com) Flexewebs
 
 </div>
 
