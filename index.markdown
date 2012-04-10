@@ -470,7 +470,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Seyi Ogunyemi](http://micrypt.com/)
-* [Matthew Cashmore](http://thelondonbiker.com) Hack Day Organiser - Hack07, Mashed08, Over The Air 08/09/10/11/12, Lonely Planet Hack Days, Australia Gov Hack Days and on....
+* [Matthew Cashmore](http://thelondonbiker.com) Hack Day Organiser
 * [Colin Loretz](http://renocollective.com/) Reno Collective/Hack4Reno
 * [Don Morrison](http://renocollective.com/) Reno Collective/Hack4Reno
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
