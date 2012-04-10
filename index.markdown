@@ -132,8 +132,8 @@ communicate regardless of how they are connected to the network.
 
 ### Ethernet to the Chair _Optional_
 
-In case of WiFi collapse you should have ethernet available at the chairs, 
-at least fast ethernet feeding into a gigabit backbone arranged in a star 
+In case of WiFi collapse you should have ethernet available at the chairs,
+at least fast ethernet feeding into a gigabit backbone arranged in a star
 or extended star topology.
 
 ## Power
@@ -294,8 +294,8 @@ was built.
 ### Time limit
 
 Each demo should be given a fixed time limit, standard times are 60, 90, 180,
-and 300 seconds. Give presenters some method of knowing how much time remains 
-to them (either half time cards or an on-screen count down). Don't let them 
+and 300 seconds. Tell presenters ahead of time, let them know how much time
+remains (either half time cards or an on-screen count down), and don't let them
 run over.
 
 ### Clear expectations
@@ -435,9 +435,9 @@ what they are doing.
 ### Emergency plans
 
 Make sure you have a plan for attendees who are injured, fall ill or suffer any
-other emergencies. Have a designated first aider on call. Know the procedures for 
+other emergencies. Have a designated first aider on call. Know the procedures for
 calling an ambulance, sounding the fire alarm, and logging incidents in the venue.
-Make sure attendees know who to turn to for help; a phone number, a few bright crew 
+Make sure attendees know who to turn to for help; a phone number, a few bright crew
 shirts and a central crew desk or wardrobe go a long way. A central point of contact
 will also help you deal with inevitable electric, network, venue- or food-related questions.
 
