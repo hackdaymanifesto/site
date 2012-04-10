@@ -345,6 +345,12 @@ adequately.
 
 ## Prizes
 
+### Not every hack day needs prizes
+
+Some people go to hack days to learn, or to play. Having one team go home with
+enormous prizes and many other teams go home with nothing may sour the end of
+the event.  Make sure it's not all about the money/toys.
+
 ### Prizes per team member
 
 Prizes must be divisible to encourage teamwork: it is very hard to slice an iPod
@@ -373,12 +379,6 @@ resources to continue a hack make for poor prizes (with obvious exceptions such
 as of companies offering music/video streaming services or online stores) and
 are likely to just disappoint the winning team. If a company wishes to pursue
 further development of a hack they should speak to the winning team separately.
-
-### Not every hack day needs expensive prizes
-
-Some people go to hack days to learn, or to play. Having one team go home with
-enormous prizes and many other teams go home with nothing may sour the end of
-the event.  Make sure it's not all about the money/toys.
 
 ## Atmosphere and attitudes
 
