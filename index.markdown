@@ -456,7 +456,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
 * [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
-* [Hadley Beeman](http://linkedgov.org/) LinkedGov 
+* [Hadley Beeman](http://linkedgov.org/) LinkedGov
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
@@ -469,6 +469,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
+* [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
 
 </div>
 
