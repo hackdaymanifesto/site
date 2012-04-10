@@ -349,7 +349,7 @@ adequately.
 
 Some people go to hack days to learn, or to play. Having one team go home with
 enormous prizes and many other teams go home with nothing may sour the end of
-the event.  Make sure it's not all about the money/toys.
+the event.  If you want to offer prizes, ask yourself if the cost of collaboration and lost learning is worth it.
 
 ### Prizes per team member
 
