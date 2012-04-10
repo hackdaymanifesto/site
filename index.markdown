@@ -471,6 +471,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
+* [Sam Cook](http://samlr.com/)
 
 </div>
 
