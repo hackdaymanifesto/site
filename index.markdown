@@ -432,9 +432,10 @@ what they are doing.
 ### Emergency plans
 
 Make sure you have a plan for attendees who are injured, fall ill or suffer any
-other emergencies. Have a designated first aider on call. Know the procedures
-for calling an ambulance, sounding the fire alarm, and logging incidents in the
-venue.
+other emergencies. Have a designated first aider on call. Make sure attendees
+know who to turn to for help; a phone number, a few bright crew shirts and a 
+central crew desk or wardrobe go a long way. Know the procedures for calling 
+an ambulance, sounding the fire alarm, and logging incidents in the venue.
 
 ### Handling problematic people
 
