@@ -469,7 +469,8 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
-
+* [Seyi Ogunyemi](http://micrypt.com/)
+* 
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
