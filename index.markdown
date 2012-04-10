@@ -516,7 +516,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Margaret Gold] (http://overtheair.org) Over the Air
 * [Alexey Komissarouk] (http://pennapps.com) PennApps
 * [Andrew Mager] (http://mager.co) Hacker Advocate, Spotify
-
+* [Jack Pearkes] (http://api.jack.ly) Developer Advocate, Kiip
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
