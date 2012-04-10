@@ -453,7 +453,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
 * [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
-* [Hadley Beeman](http://twitter.com/hadleybeeman/)
+* [Hadley Beeman](http://linkedgov.org/) LinkedGov 
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
