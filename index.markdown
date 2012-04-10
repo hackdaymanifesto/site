@@ -470,6 +470,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
+* [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
 
 </div>
 
