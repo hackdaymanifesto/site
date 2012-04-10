@@ -455,6 +455,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
 * [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
+* [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
 * [Tom Scott](http://tomscott.com/)
 * [Hadley Beeman](http://twitter.com/hadleybeeman/)
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
