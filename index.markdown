@@ -471,6 +471,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
 * [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
+* [Abe Stanway](http://hackerleague.org) Hacker League
 
 </div>
 
