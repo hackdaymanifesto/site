@@ -221,11 +221,14 @@ questions, both on stage and during the rest of the event.
 The APIs pitched to attendees should be checked in advance by someone technical
 to confirm that they are suitable, work, and are of a high enough quality.
 
-### Multiple Clients
+### Multiple clients
 
 All APIs should provide client libraries in at least three of the major
 languages unless there is good reason for them not to (such as the target
 platform only supporting a single language).
+
+(And if you haven't got the client libraries written, maybe you need an
+internal hack day to write them!)
 
 ### Clean datasets
 
