@@ -493,6 +493,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Tom Scott](http://tomscott.com/)
 * [Hadley Beeman](http://linkedgov.org/) LinkedGov
 * [Dom Hodgson](http://thehodge.co.uk) Leeds Hack
+* [Sheila Thomson] (http://kaikoda.com) Kaikoda
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [James Darling](http://abscond.org/) Music Hack Day, Rewired State
@@ -513,7 +514,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Michel Jansen](http://micheljansen.org/)
 * [Swift](http://hackerleague.org/) Hacker League
 * [Margaret Gold] (http://overtheair.org) Over the Air
-* [Sheila Thomson] (http://kaikoda.com) Kaikoda
 * [Alexey Komissarouk] (http://pennapps.com) PennApps
 
 </div>
