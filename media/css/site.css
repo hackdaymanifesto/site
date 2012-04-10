@@ -67,12 +67,12 @@ footer p {
 }
 
 @media (min-width: 500px) {
-    ul {
+    .supporters ul {
         margin-bottom: -20px;
         overflow: hidden;
     }
 
-    ul li {
+    .supporters ul li {
         color: #999;
         font-size: 12px;
         float: left;
@@ -80,7 +80,7 @@ footer p {
         width: 33%;
     }
 
-    ul a {
+    .supporters ul a {
         display: block;
         font-size: 16px;
     }

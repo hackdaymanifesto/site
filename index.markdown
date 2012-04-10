@@ -202,8 +202,8 @@ attendees throughout the event. Try to ensure there are healthy options too.
 
 Should be served as if you are the owner of your local bar because, in fact,
 you are. Check licensing rules with the venue, including where and when alcohol
-can be served and consumed and what time you need to stop serving. If you have underage attendees, 
-make sure they're not served alcohol. Penalties for failing to do this range 
+can be served and consumed and what time you need to stop serving. If you have underage attendees,
+make sure they're not served alcohol. Penalties for failing to do this range
 from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
 
 ## APIs / Datasets
@@ -405,7 +405,7 @@ the attendees, and not to the organisers, sponsors, or partners, with the
 obvious exception of hack days based around the further development of an open
 source project.
 
-Intellectual property can be a big issue; it is best to make expectations clear 
+Intellectual property can be a big issue; it is best to make expectations clear
 in advance, both to developers and to sponsors or data providers.
 
 ### What are you after?
@@ -448,6 +448,8 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 ## Supporters
 
+<div class="supporters" markdown='1'>
+
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
@@ -457,5 +459,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Hadley Beeman](http://twitter.com/hadleybeeman/)
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
 * [Jason Grant](http://flexewebs.com) Flexewebs
+
+</div>
 
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
