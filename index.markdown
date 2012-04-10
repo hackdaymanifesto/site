@@ -458,7 +458,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
-* [Michel Jansen](http://micheljansen.org/)
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
 * [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
@@ -479,6 +478,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
 * [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
 * [Abe Stanway](http://hackerleague.org) Hacker League
+* [Michel Jansen](http://micheljansen.org/)
 
 </div>
 
