@@ -66,9 +66,12 @@ footer p {
     margin: 0;
 }
 
+.share {
+    text-align: center;
+}
+
 @media (min-width: 500px) {
     .supporters ul {
-        margin-bottom: -20px;
         overflow: hidden;
     }
 
