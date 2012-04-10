@@ -11,6 +11,32 @@ ruin it. If you cannot provide any of the following, make it clear to guests
 before registration. Attendees are generally forgiving when clear communication
 is given.
 
+## Announcing the event
+
+Once you know when and how your event will take place, you'll want to tell the
+world about it. At a bare minimum, you should decide on a canonical place where
+all public information about the event lives - this might be a dedicated web
+site, an event on an existing event online service or some other place which is
+publicly accessible.
+
+### Registration _Optional_
+
+If you require your attendees to register, make it clear what information is
+required for signing up and what the deadline for the registration is. If there's
+a maximum number of attendees the venue can handle, communicate how the selection
+process works and when/how people will be notified if they've been granted
+attendance or not.
+
+If there's a waiting list for the event, make sure to explain how it works.
+
+#### What to ask for
+
+There are a number of things you could ask for, but a bare minimum would be:
+
+* Name
+* Contact details
+* Food preferences / allergies (if food is served)
+
 ## Venue
 
 ### Location
@@ -464,6 +490,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Tom Morris](http://tommorris.org/)
 * [Tom Scott](http://tomscott.com/)
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
+* [Mattias Arrelid](http://arrelid.com/)
 
 </div>
 
