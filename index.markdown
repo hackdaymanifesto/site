@@ -465,7 +465,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
 * [Tom Scott](http://tomscott.com/)
-* [Hadley Beeman](http://twitter.com/hadleybeeman/)
+* [Hadley Beeman](http://linkedgov.org/) LinkedGov
 * [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [James Darling](http://abscond.org/) Music Hack Day, Rewired State
