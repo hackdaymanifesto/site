@@ -89,14 +89,16 @@ footer p {
 
 @media (min-width: 500px) {
     .supporters ul {
+        font-size: 0;
         overflow: hidden;
     }
 
     .supporters ul li {
         color: #999;
+        display: inline-block;
         font-size: 12px;
-        float: left;
         min-height: 40px;
+        vertical-align: top;
         width: 33%;
     }
 
