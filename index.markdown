@@ -513,6 +513,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Michel Jansen](http://micheljansen.org/)
 * [Swift](http://hackerleague.org/) Hacker League
 * [Margaret Gold] (http://overtheair.org) Over the Air
+* [Alexey Komissarouk] (http://pennapps.com) PennApps
 
 </div>
 
