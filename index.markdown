@@ -18,9 +18,11 @@ is given.
 The venue should be relatively easy for people from outside of town to locate,
 with good public transport links. If it's difficult to reach, try to provide
 alternative means of transportation, such as coaches to/from local transport
-hubs throughout the event. Provide a full address, GPS coordinates, and detailed
-travel instructions along with the location of the nearest car park to all
-attendees well in advance of the event.
+hubs throughout the event. Provide a full address, and if necessary,
+additional instructions to all attendees well in advance of the event.
+
+Include instructions/contacts/getting in arrangements, too (i.e., what
+do to at reception/security desks).
 
 ### Accessibility
 
@@ -35,6 +37,8 @@ Does your venue have the relevant insurance? Are guests' belongings protected in
 case of fire or theft? If not, you should make them aware of the risks so they
 can take extra precautions.
 
+Do you, as an organizer have adequate insurance?
+
 ### Security
 
 Attendees will often be bringing a lot of expensive kit: laptops, tablets, etc.
@@ -46,7 +50,10 @@ lockers, can you run a cloakroom system?
 Are the rooms going to be available to non-attendees? Work out whether you are
 running a secure site and whether people need to bring photo ID; if so, tell
 them when they sign up and remind them close to the event date. For some people,
-showing photo ID may be a deal breaker.
+showing photo ID may be a deal breaker. Not everyone will have 
+'Government issued ID', either.
+
+Providing proof of address is, increasingly troublesome.
 
 ## Overnight Events
 
@@ -55,7 +62,7 @@ showing photo ID may be a deal breaker.
 If attendees are staying overnight, then a separate (dark, quiet) area should be
 available away from the hacking should people decide to sleep. If possible, this
 should be several areas potentially including dedicated areas, for example
-male/female/mixed, snorer/non-snorer, night-owls/early birds.
+male/female/mixed, minors (+chaperones?), snorer/non-snorer, night-owls/early birds.
 
 ### Showers _Optional_
 
@@ -79,20 +86,25 @@ venues and suppliers.
 ### Rock solid WiFi
 
 Many commercial WiFi providers plan for much lower use than actually occurs at
-hack days. The WiFi network should be capable of handling at least 4 devices per
+hack days. The network should be capable of handling at least 4 devices per
 attendee.
 
 ### Minimal firewalling
 
-As a minimum: ports used for HTTP (80), HTTPS (443), FTP (21), SSH (22), SMTP
-(25, 587), POP3 (110), IMAP (110, 143), IRC (6667), VPN (1723, 47, 500, 5500, 1701),
-MSN Messenger (1863), Google Talk (5222), Git (9418), Subversion (3690), and CVS
-(2401) must be open and accessible, without the need of proxy servers.
+As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP),
+VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP), 
+HTTPS (443), Submission (587), IMAPS (993), MSN Messenger (1863), 
+CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9), 
+and Git (9418), must be open and accessible, without the need of
+proxy servers, and preferably without perimeter-level malware &c
+checks.
 
 ### Subnet / DHCP capacity
 
-Subnet and DHCP server must have capacity for allocating a minimum of 8 IP
-addresses per attendee.
+Subnet and DHCP server must have capacity for allocating 6 IPv4 (and
+optionally, IPv6) addresses (preferably a /29) per hacker.
+
+If NAT is not used, attendees should be informed in advance.
 
 ### WiFi security
 
@@ -102,13 +114,18 @@ against the monitoring of other users' network traffic.
 ### No device isolation
 
 Attendees should be reminded that when connected to the network, their devices
-are accessible to all other devices on the network so they would be wise to
-secure them. Organisers should make it clear that they absolve themselves of
-liability for any intrusion or damage caused over the network.  Attendees will
+may be accessible to all other devices on the network so they would be wise to
+secure them.
+
+Organisers should make it clear that they absolve themselves of
+liability for any intrusion or damage caused over the network. Attendees will
 want to share resources with other attendees (version control, for example) but
 while it would be wise for them to do so in a controlled manner it is ultimately
 up to each individual to be responsible for the security of their own devices,
 connected or otherwise.
+
+Attendees should be encouraged/advised to run their own firewalls,
+too, remembering that IPv6 exists.
 
 ### IP Whitelisting
 
@@ -117,6 +134,9 @@ such as Twitter, Google, and Freenode in advance to inform them of the increased
 number of connections from your IP range; they may have an existing process that
 you should use.
 
+In many cases, rate-limiting is handled by authentication, not IP
+address (ranges).
+
 For Freenode, email [iline@freenode.net](mailto:iline@freenode.net) with dates,
 expected number of attendees and IP addresses if possible.
 
@@ -124,6 +144,8 @@ expected number of attendees and IP addresses if possible.
 
 Traffic shaping and monitoring should be employed to help prevent a few users
 abusing the connection to the detriment of all others.
+
+DPI should not be used.
 
 ### Single subnet _Optional_
 
@@ -160,10 +182,10 @@ don't let one soldering iron knock out the entire venues power.
 
 Not everyone in the technical community is hypercarnivorous. Be sure to check
 with your attendees for dietary requirements: food allergies, vegetarians,
-vegans and people with religious or other dietary restrictions. Make provisions
-to ensure they are provided for equally. If you're on a budget, prioritise
-allergies and vegan alternatives; the vegan alternative will satisfy most
-non-allergy based requirements.
+vegans and people with dietary restrictions. Make provisions to ensure
+they are provided for equally. If you're on a budget, prioritise
+allergies and vegan alternatives; the vegan alternative will satisfy
+most non-allergy based requirements.
 
 ### Breakfast
 
@@ -173,13 +195,12 @@ either continental or cooked.
 ### Lunch
 
 You should provide a lunch for each day of the event, this should consist at
-least of sandwiches.
+least of sandwiches (or suitable alternatives for gluten intolerant folk).
 
 ### Dinner
 
 If your event runs later than 6pm or overnight you should provide attendees with
-a proper evening meal, not sandwiches or snacks. (Pizza is a large, hot
-sandwich: it isn't really a "proper evening meal".)
+a proper evening meal, not sandwiches or snacks (and not everybody likes/eats pizza).
 
 ### Overnight
 
@@ -189,8 +210,8 @@ supplying something that can still be eaten after it has gone cold.
 
 ### Drinks
 
-A selection of coffee, green and black tea, energy drinks, caffeinated and
-non-caffeinated soft drinks, juices and water should be freely available to
+A selection of coffee, green and black tea (plus milks, sugars), energy drinks, 
+caffeinated and non-caffeinated soft drinks, juices and water should be freely available to
 attendees throughout the event.
 
 ### Snacks
@@ -201,9 +222,9 @@ attendees throughout the event. Try to ensure there are healthy options too.
 ### Alcohol
 
 Should be served as if you are the owner of your local bar because, in fact,
-you are. Check licensing rules with the venue, including where and when alcohol
+you are [unless it's a private event?]. Check licensing rules with the venue, including where and when alcohol
 can be served and consumed and what time you need to stop serving. If you have underage attendees,
-make sure they're not served alcohol. Penalties for failing to do this range
+make sure they're not served alcohol. Penalties for failing to do this could range
 from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
 
 ## APIs / Datasets
@@ -232,9 +253,10 @@ internal hack day to write them!)
 
 ### Clean datasets
 
-Datasets provided for use in the hack day should be checked in advance by
-someone technical to ensure they are well structured and in a sensible format
-(CSV, XML, JSON, RDF etc., rather than Excel spreadsheets and PDFs).
+Datasets provided for use in the hack day should, where possible, be
+checked in advance by someone technical to ensure they are well
+structured and in a sensible format (CSV, XML, JSON, RDF etc., rather
+than Excel spreadsheets and PDFs).
 
 ### Thorough documentation
 
@@ -253,7 +275,7 @@ available on USB keys for even faster transfer.
 
 Try and ensure that large datasets are accompanied by smaller sample files so
 attendees can check them for suitability and write parsers using a small number
-of records  before downloading and importing multi-gigabyte files.
+of records before downloading and importing multi-gigabyte files.
 
 ### API Keys
 
@@ -287,8 +309,8 @@ isolates the live API's from the increased usage the hack day will cause.
 If possible, have a shared, public listing of the hacks that have been
 submitted. This helps the judges, the attendees and bloggers/journalists who are
 covering the event. This can be done with Google Docs, an Etherpad or with a
-page on a wiki. Plan for that page to stay around as a historical record of what
-was built.
+page on a wiki. Several Hackday bespoke applications exist, too. Plan for that
+resource to stay around as a historical record of what was built.
 
 ### Time limit
 
@@ -330,7 +352,7 @@ one demo presenting while the next is setting up.
 
 ### Video connectors
 
-For the demos, either have a set of adapters handy for Mini DisplayPort, VGA,
+For the demos, either have a set of adapters handy for (Apple Mac) Mini DisplayPort, VGA,
 DVI, and HDMI video outputs, or make sure attendees know the projector's inputs
 ahead of time so they can make sure they have the relevant adapters.
 
@@ -380,8 +402,9 @@ the prize and the hack day organisers.
 Discounts and credit for an API, face time with a company's CEO, or development
 resources to continue a hack make for poor prizes (with obvious exceptions such
 as of companies offering music/video streaming services or online stores) and
-are likely to just disappoint the winning team. If a company wishes to pursue
-further development of a hack they should speak to the winning team separately.
+are likely to just disappoint the winning team. When organizations/individuals
+wish to pursue further development of a hack they should speak to the winning
+team separately.
 
 ## Atmosphere and attitudes
 
@@ -405,8 +428,8 @@ showing the possibility of their APIs, data, products and services.
 
 The intellectual property rights of hacks produced at the event should belong to
 the attendees, and not to the organisers, sponsors, or partners, with the
-obvious exception of hack days based around the further development of an open
-source project.
+obvious exception of (a) hack days based around the further development of an open
+source project, or (b) commercially run hacks.
 
 Intellectual property can be a big issue; it is best to make expectations clear
 in advance, both to developers and to sponsors or data providers.
@@ -431,10 +454,11 @@ what they are doing.
 
 ### Emergency plans
 
-Make sure you have a plan for attendees who are injured, fall ill or suffer any
-other emergencies. Have a designated first aider on call. Know the procedures
-for calling an ambulance, sounding the fire alarm, and logging incidents in the
-venue.
+Make sure you have a plan for staff and attendees who are injured,
+fall ill or suffer any other emergencies. Have at least one designated
+first aider on call. Know the procedures for calling an ambulance,
+sounding the fire alarm, evacuation point, and logging incidents in
+the venue.
 
 ### Handling problematic people
 
@@ -445,7 +469,7 @@ anti-harassment policies due to widely reported incidents of sexual harassment.
 
 ### Finally, keep your crew safe too
 
-Working at a hack day, as a volunteer or otherwise, is a stressful and demanding
+Working at a hack day, as a volunteer or otherwise, can be a stressful and demanding
 job. Make sure your crew are safe, happy and well-fed throughout, and that
 you've got enough staff to cope with emergencies or unexpected dropouts!
 
@@ -470,6 +494,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
+* [Adam McGreggor](http://amyl.org.uk/), Developer Network Builder
 
 </div>
 
