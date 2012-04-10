@@ -70,6 +70,23 @@ footer p {
     text-align: center;
 }
 
+.share a {
+    color: #000;
+    display: inline-block;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 11px;
+    height: 16px;
+    line-height: 16px;
+    margin-right: 3px;
+    margin-left: 3px;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+.share a:hover {
+    opacity: 0.75;
+}
+
 @media (min-width: 500px) {
     .supporters ul {
         overflow: hidden;
