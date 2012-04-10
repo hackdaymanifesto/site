@@ -512,6 +512,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Abe Stanway](http://hackerleague.org) Hacker League
 * [Michel Jansen](http://micheljansen.org/)
 * [Swift](http://hackerleague.org/) Hacker League
+* [Margaret Gold] (http://overtheair.org) Over the Air
 
 </div>
 
