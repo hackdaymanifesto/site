@@ -154,8 +154,9 @@ communicate regardless of how they are connected to the network.
 
 ### Ethernet to the Chair _Optional_
 
-At least fast ethernet feeding into a gigabit backbone arranged in a star or
-extended star topology.
+In case of WiFi collapse you should have ethernet available at the chairs,
+at least fast ethernet feeding into a gigabit backbone arranged in a star
+or extended star topology.
 
 ## Power
 
@@ -222,7 +223,7 @@ attendees throughout the event. Try to ensure there are healthy options too.
 ### Alcohol
 
 Should be served as if you are the owner of your local bar because, in fact,
-you are [unless it's a private event?]. Check licensing rules with the venue, including where and when alcohol
+you are. Check licensing rules with the venue, including where and when alcohol
 can be served and consumed and what time you need to stop serving. If you have underage attendees,
 make sure they're not served alcohol. Penalties for failing to do this could range
 from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
@@ -315,7 +316,9 @@ resource to stay around as a historical record of what was built.
 ### Time limit
 
 Each demo should be given a fixed time limit, standard times are 60, 90, 180,
-and 300 seconds. Tell presenters in advance and don't let them run over.
+and 300 seconds. Tell presenters ahead of time, let them know how much time
+remains (either half time cards or an on-screen count down), and don't let them
+run over.
 
 ### Clear expectations
 
@@ -454,11 +457,15 @@ what they are doing.
 
 ### Emergency plans
 
-Make sure you have a plan for staff and attendees who are injured,
-fall ill or suffer any other emergencies. Have at least one designated
-first aider on call. Know the procedures for calling an ambulance,
+Make sure you have a plan for attendees who are injured, fall ill or
+suffer any other emergencies. Have at least one designated first aider
+on call. Make sure you know where the first aid box is, and check it's
+appropriately stocked. Know the procedures for calling an ambulance,
 sounding the fire alarm, evacuation point, and logging incidents in
-the venue.
+the venue.  Make sure attendees know who to turn to for help; a phone
+number, a few bright crew shirts and a central crew desk or wardrobe
+go a long way. A central point of contact will also help you deal with
+inevitable electric, network, venue- or food-related questions.
 
 ### Handling problematic people
 
@@ -477,24 +484,34 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 <div class="supporters" markdown='1'>
 
-* [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
-* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
-* [Hadley Beeman](http://linkedgov.org/) LinkedGov
-* [Jason Grant](http://flexewebs.com) Flexewebs
+* [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
+* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
-* [Tom Morris](http://tommorris.org/)
 * [Tom Scott](http://tomscott.com/)
+* [Hadley Beeman](http://linkedgov.org/) LinkedGov
+* [Dom Hodgson](http://thehodge.co.uk) Leeds Hack
+* [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
+* [Jason Grant](http://flexewebs.com) Flexewebs
 * [James Darling](http://abscond.org/) Music Hack Day, Rewired State
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
+* [Sam Cook](http://samlr.com/)
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
+* [Seyi Ogunyemi](http://micrypt.com/)
+* [Matthew Cashmore](http://thelondonbiker.com) Hack Day Organiser
+* [Colin Loretz](http://renocollective.com/) Reno Collective/Hack4Reno
+* [Don Morrison](http://renocollective.com/) Reno Collective/Hack4Reno
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
 * [Adam McGreggor](http://amyl.org.uk/), Developer Network Builder
+* [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
+* [Abe Stanway](http://hackerleague.org) Hacker League
+* [Michel Jansen](http://micheljansen.org/)
+* [Swift](http://hackerleague.org/) Hacker League
 
 </div>
 
