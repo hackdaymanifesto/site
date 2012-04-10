@@ -483,6 +483,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
 * [Abe Stanway](http://hackerleague.org) Hacker League
 * [Michel Jansen](http://micheljansen.org/)
+* [Swift](http://hackerleague.org/) Hacker League
 
 </div>
 
