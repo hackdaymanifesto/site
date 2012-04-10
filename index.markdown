@@ -132,8 +132,9 @@ communicate regardless of how they are connected to the network.
 
 ### Ethernet to the Chair _Optional_
 
-At least fast ethernet feeding into a gigabit backbone arranged in a star or
-extended star topology.
+In case of WiFi collapse you should have ethernet available at the chairs, 
+at least fast ethernet feeding into a gigabit backbone arranged in a star 
+or extended star topology.
 
 ## Power
 
