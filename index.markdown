@@ -85,7 +85,7 @@ attendee.
 ### Minimal firewalling
 
 As a minimum: ports used for HTTP (80), HTTPS (443), FTP (21), SSH (22), SMTP
-(25), POP3 (110), IMAP (110, 143), IRC (6667), VPN (1723, 47, 500, 5500, 1701),
+(25, 587), POP3 (110), IMAP (110, 143), IRC (6667), VPN (1723, 47, 500, 5500, 1701),
 MSN Messenger (1863), Google Talk (5222), Git (9418), Subversion (3690), and CVS
 (2401) must be open and accessible, without the need of proxy servers.
 
