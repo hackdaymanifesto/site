@@ -460,6 +460,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Hadley Beeman](http://linkedgov.org/) LinkedGov 
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
+* [Michel Jansen](http://micheljansen.org/)
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
 * [Tom Morris](http://tommorris.org/)
