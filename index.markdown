@@ -469,7 +469,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
 * [Andy Piper](http://andypiper.co.uk/) hackathon supporter
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
-* [Margaret Gold] (http://overtheair.org) Over the Air, MC ThinkCamps, Citizen Cyberscience Summit
+* [Margaret Gold] (http://overtheair.org) Over the Air
 
 </div>
 
