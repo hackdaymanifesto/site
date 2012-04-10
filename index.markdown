@@ -507,7 +507,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Colin Loretz](http://renocollective.com/) Reno Collective/Hack4Reno
 * [Don Morrison](http://renocollective.com/) Reno Collective/Hack4Reno
 * [Alper Cugun](http://hackdeoverheid.nl) Hack de Overheid
-* [Adam McGreggor](http://amyl.org.uk/), Developer Network Builder
+* [Adam McGreggor](http://amyl.org.uk/) Developer Network Builder
 * [Patricio Molina](http://patriciomolina.com) Software developer, Wikipedist
 * [Abe Stanway](http://hackerleague.org) Hacker League
 * [Michel Jansen](http://micheljansen.org/)
