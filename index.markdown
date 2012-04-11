@@ -535,6 +535,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Andrew Nesbitt] (http://forwardtechnology.co.uk) Developer, Forward
 * [Mijndert Stuij] (http://mijndertstuij.nl)
 * [Sam Machin] (http://sammachin.com) Geek
+* [Paul Lamere] (http://MusicMachinery.com) Music Hack Day, The Echo Nest
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
