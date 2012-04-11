@@ -51,26 +51,24 @@ Are the rooms going to be available to non-attendees? Work out whether you are
 running a secure site and whether people need to bring photo ID; if so, tell
 them when they sign up and remind them close to the event date. For some people,
 showing photo ID may be a deal breaker. Not everyone will have
-'Government issued ID', either.
-
-Providing proof of address is, increasingly troublesome.
+'government issued ID', either. Providing proof of address may be hard for some.
 
 ## Dates
 
 ### Weekend or Not?
 
-Most hackdays are on weekends as this allows people to attend without taking the day 
-off work, if you are planning a hackday that begins on a friday to saturday know that 
-this limits the amount of people willing to travel after work
+Most hackdays are held at the weekend as this allows people to attend without
+taking time off work. If you are planning a hack day that begins on a Friday,
+remember that this may limit the number of people willing to travel after work.
 
 ### Checking for clashes
 
-One of the most fustrating things for attendees to see is two similar events on the same 
-day in the same area, check places like [lanyrd](http://www.lanyrd.com), [eventbrite](http://eventbrite.com)
-and of course ask on twitter "anything going on in X on X".. remember that people travel
-long distances for hack days, so even if an event is a few hundred miles away, your still
-diluting your potental audience
-
+One of the most frustrating things for attendees to see is two similar events
+on the same day in the same area. To avoid this, check places like
+[Lanyrd](http://www.lanyrd.com), [Eventbrite](http://eventbrite.com) and ask on
+twitter "anything going on in X on X". Remember that people may be travelling
+long distances for hack days, so even if an event is a few hundred miles away,
+you are still diluting your potental audience.
 
 ## Overnight Events
 
@@ -89,7 +87,7 @@ attendees well in advance so they can bring towels and toiletries.
 
 ## Network
 
-### Your 4MB DSL Line isn't enough
+### Your 4MB DSL isn't enough
 
 Hack days have special requirements: don't just trust anyone who tells you that
 "it'll be fine". Think about the networking issues, and verify that they work
