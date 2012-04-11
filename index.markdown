@@ -55,6 +55,23 @@ showing photo ID may be a deal breaker. Not everyone will have
 
 Providing proof of address is, increasingly troublesome.
 
+## Dates
+
+### Weekend or Not?
+
+Most hackdays are on weekends as this allows people to attend without taking the day 
+off work, if you are planning a hackday that begins on a friday to saturday know that 
+this limits the amount of people willing to travel after work
+
+### Checking for clashes
+
+One of the most fustrating things for attendees to see is two similar events on the same 
+day in the same area, check places like [lanyrd](http://www.lanyrd.com), [eventbrite](http://eventbrite.com)
+and of course ask on twitter "anything going on in X on X".. remember that people travel
+long distances for hack days, so even if an event is a few hundred miles away, your still
+diluting your potental audience
+
+
 ## Overnight Events
 
 ### Sleeping provision
