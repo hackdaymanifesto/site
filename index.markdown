@@ -533,6 +533,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Andrew Mager] (http://mager.co) Hacker Advocate, Spotify
 * [Jack Pearkes] (http://api.jack.ly) Developer Advocate, Kiip
 * [Andrew Nesbitt] (http://forwardtechnology.co.uk) Developer, Forward
+* [Mijndert Stuij] (http://mijndertstuij.nl)
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
