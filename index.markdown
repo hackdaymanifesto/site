@@ -534,6 +534,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jack Pearkes] (http://api.jack.ly) Developer Advocate, Kiip
 * [Andrew Nesbitt] (http://forwardtechnology.co.uk) Developer, Forward
 * [Mijndert Stuij] (http://mijndertstuij.nl)
+* [Sam Machin] (http://sammachin.com) Geek
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
