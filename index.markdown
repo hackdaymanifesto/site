@@ -57,7 +57,7 @@ showing photo ID may be a deal breaker. Not everyone will have
 
 ### Weekend or Not?
 
-Most hackdays are held at the weekend as this allows people to attend without
+Most hack days are held at the weekend as this allows people to attend without
 taking time off work. If you are planning a hack day that begins on a Friday,
 remember that this may limit the number of people willing to travel after work.
 
