@@ -123,4 +123,7 @@ footer p {
 	.github {
 	    display: none;
 	}
+	.share {
+		display: none;
+	}
 }
