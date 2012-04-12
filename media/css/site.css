@@ -113,3 +113,14 @@ footer p {
         display: none;
     }
 }
+
+@media print {
+	article {
+	    margin: 0;
+		padding: 0;
+		max-width: 100%;
+	}
+	.github {
+	    display: none;
+	}
+}
