@@ -498,7 +498,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 ## Supporters
 
 <div class="supporters" markdown='1'>
-
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
@@ -539,8 +538,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Syd Lawrence] (http://sydlawrence.com) Developer
 * [Matt Clements] (http://mattclements.co.uk) Developer
 * [Carter Rabasa] (http://carter.rabasa.com) Developer Evangelist, Twilio
-* [Jannette Mensch] (http://design-mensch.de) IxD & Hack Day participant 
-
+* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant 
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
