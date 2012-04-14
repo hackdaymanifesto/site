@@ -538,7 +538,9 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Paul Lamere] (http://MusicMachinery.com) Music Hack Day
 * [Syd Lawrence] (http://sydlawrence.com) Developer
 * [Matt Clements] (http://mattclements.co.uk) Developer
+* [Carter Rabasa] (http://carter.rabasa.com) Developer Evangelist, Twilio
 * [Jannette Mensch] (http://design-mensch.de) IxD & Hack Day participant 
+
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
