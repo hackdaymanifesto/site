@@ -508,7 +508,6 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Hadley Beeman](http://linkedgov.org/) LinkedGov
 * [Dom Hodgson](http://thehodge.co.uk) Leeds Hack
 * [Sheila Thomson] (http://kaikoda.com) Kaikoda
-* [Arran Ross-Paterson](http://thoughtinrhythm.com) Event Handler
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [James Darling](http://abscond.org/) Music Hack Day, Rewired State
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
