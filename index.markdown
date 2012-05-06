@@ -11,6 +11,34 @@ ruin it. If you cannot provide any of the following, make it clear to guests
 before registration. Attendees are generally forgiving when clear communication
 is given.
 
+## Announcing the event
+
+Once you know when and how your event will take place, you'll want to tell the
+world about it. At a bare minimum, you should decide on a canonical place where
+all public information about the event lives - this might be a dedicated web
+site, an event on an existing event online service or some other place which is
+publicly accessible.
+
+### Registration _Optional_
+
+If you require your attendees to register, make it clear what information is
+required for signing up and what the deadline for the registration is. If
+there's a maximum number of attendees the venue can handle, communicate how the
+selection process works and when/how people will be notified if they've been
+granted attendance or not.
+
+If there's a waiting list for the event, make sure to explain how it works.
+
+#### What to ask for
+
+Most registration forms lets applicants enter name, contact details and food
+preferences/allergies (if applicable). Depending on your event and your venue,
+you might want to ask for additional information - this manifest lists a few
+other topics which might make sense to add to the registration form.
+
+There are also a number of things you probably should _not_ ask for, like
+gender, religious preferences etc.
+
 ## Venue
 
 ### Location
@@ -541,6 +569,9 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Alexandre Passant] (http://apassant.net) Music and Data Geek
 * [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
 * [Chase Southard] (http://openlexington.org) OpenLexington
+* [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
+* [Mattias Arrelid](http://arrelid.com/)
+
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
