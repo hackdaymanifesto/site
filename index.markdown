@@ -51,8 +51,9 @@ additional instructions to all attendees well in advance of the event.
 
 Include instructions/contacts/getting in arrangements, too (i.e., what
 do to at reception/security desks).
-(!) Print BIG signs that will guide your attendees to the venue (and in some case inside the venue).
 
+Print big signs that will guide your attendees to the venue (and in some case
+inside the venue).
 
 ### Accessibility
 
