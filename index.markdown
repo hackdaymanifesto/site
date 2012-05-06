@@ -540,6 +540,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant 
 * [Alexandre Passant] (http://apassant.net) Music and Data Geek
 * [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
+* [Chase Southard] (http://openlexington.org) OpenLexington
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
