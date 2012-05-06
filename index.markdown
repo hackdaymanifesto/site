@@ -572,6 +572,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Chase Southard] (http://openlexington.org) OpenLexington
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
 * [Mattias Arrelid](http://arrelid.com/)
+* [Jeremy Keith](http://adactio.com/) Founder, [Science Hack Day](http://sciencehackday.com/)
 
 </div>
 
