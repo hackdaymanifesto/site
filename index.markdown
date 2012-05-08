@@ -9,7 +9,8 @@ So you're organising a hack day or hackathon? Here are some basic requirements
 to make your event a success, and avoid the common pitfalls that could otherwise
 ruin it. If you cannot provide any of the following, make it clear to guests
 before registration. Attendees are generally forgiving when clear communication
-is given.
+is given. These are only guidelines, but exist to help you run a hack day in the
+easiest possible way.
 
 ## Announcing the event
 
