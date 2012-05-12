@@ -257,7 +257,7 @@ supplying something that can still be eaten after it has gone cold.
 
 A selection of coffee, green and black tea (plus milks, sugars), energy drinks,
 caffeinated and non-caffeinated soft drinks, juices and water should be freely available to
-attendees throughout the event. When in doubt, skew the balance toward water over sugary drinks.
+attendees throughout the event.
 
 ### Snacks
 
@@ -270,7 +270,7 @@ Should be served as if you are the owner of your local bar because, in fact,
 you are. Check licensing rules with the venue, including where and when alcohol
 can be served and consumed and what time you need to stop serving. If you have underage attendees,
 make sure they're not served alcohol. Penalties for failing to do this could range
-from a fine to imprisonment for the person providing alcohol and loss of license for the venue.
+from a fine to imprisonment for the person providing alcohol and loss of licence for the venue.
 
 ## APIs / Datasets
 
@@ -330,8 +330,8 @@ able to authorize the requests quickly, and with as little fuss as possible.
 ### Licensing
 
 Get clear licensing information from API and dataset providers ahead of time,
-and communicate those licenses clearly to the attendees, remembering that those
-in the technical community often have strong opinions about open licenses for
+and communicate those licences clearly to the attendees, remembering that those
+in the technical community often have strong opinions about open licences for
 data and code.
 
 ### Longevity
