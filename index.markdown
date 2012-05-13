@@ -95,7 +95,7 @@ remember that this may limit the number of people willing to travel after work.
 
 One of the most frustrating things for attendees to see is two similar events
 on the same day in the same area. To avoid this, check places like
-[Lanyrd](http://www.lanyrd.com), [Eventbrite](http://eventbrite.com) and ask on
+[Lanyrd](http://www.lanyrd.com) and [Eventbrite](http://eventbrite.com), and ask on
 twitter "anything going on in X on X". Remember that people may be travelling
 long distances for hack days, so even if an event is a few hundred miles away,
 you are still diluting your potental audience.
@@ -519,11 +519,17 @@ the procedures are, what you're legally able to do and what kind of misbehaviour
 would actually trigger ejection. Some events have instituted safe space and
 anti-harassment policies due to widely reported incidents of sexual harassment.
 
-### Finally, keep your crew safe too
+### Keep your crew safe too
 
 Working at a hack day, as a volunteer or otherwise, can be a stressful and demanding
 job. Make sure your crew are safe, happy and well-fed throughout, and that
 you've got enough staff to cope with emergencies or unexpected dropouts!
+
+### Finally, remember to have fun!
+
+If you follow all these guidelines, prepare well in advance, and get plenty of 
+rest before the big day, you'll maximize your odds of having an event that's 
+not just successful, but enjoyable as well. Good luck!
 
 ## Supporters
 
@@ -575,6 +581,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Mattias Arrelid](http://arrelid.com/)
 * [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
 * [Michael Wawra] (http://wawra.co.uk) Geek
+* [Chris Weekly](http://chrisweekly.com/) 
 
 </div>
 
