@@ -567,13 +567,14 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Syd Lawrence] (http://sydlawrence.com) Developer
 * [Matt Clements] (http://mattclements.co.uk) Developer
 * [Carter Rabasa] (http://carter.rabasa.com) Developer Evangelist, Twilio
-* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant 
+* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant
 * [Alexandre Passant] (http://apassant.net) Music and Data Geek
 * [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
 * [Chase Southard] (http://openlexington.org) OpenLexington
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
 * [Mattias Arrelid](http://arrelid.com/)
 * [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
+* [Michael Wawra] (http://wawra.co.uk) Geek
 
 </div>
 
