@@ -582,7 +582,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
 * [Michael Wawra] (http://wawra.co.uk) Geek
 * [Chris Weekly](http://chrisweekly.com/) 
-
+* [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats  
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
