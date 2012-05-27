@@ -211,10 +211,10 @@ You will need a minimum of 1.5 power sockets available for every seat. That's a
 minimum; many attendees will bring two, three, or more devices that require
 separate power.
 
-### PAT testing
+### Portable Appliance Testing
 
 As stated above, your attendees will be bringing two, three, or more devices
-making full PAT tests for every device an impossible endeavour. But if you are
+making full PATs for every device an impossible endeavour. But if you are
 providing a lot of power strips it can be worth getting them tested.
 
 ### Isolated power for hardware hacks _Optional_
