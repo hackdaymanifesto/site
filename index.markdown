@@ -354,9 +354,10 @@ isolates the live API's from the increased usage the hack day will cause.
 
 If possible, have a shared, public listing of the hacks that have been
 submitted. This helps the judges, the attendees and bloggers/journalists who are
-covering the event. This can be done with Google Docs, an Etherpad or with a
-page on a wiki. Several Hackday bespoke applications exist, too. Plan for that
-resource to stay around as a historical record of what was built.
+covering the event. You can use Google Docs, Etherpad or a wiki. Several Hackday
+bespoke applications exist, too. Make sure that all attendees have write access
+and can concurrently edit. Plan for the hack listing to stay around as a
+historical record.
 
 ### Time limit
 
