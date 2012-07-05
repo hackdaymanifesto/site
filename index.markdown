@@ -587,6 +587,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Michael Wawra] (http://wawra.co.uk) Geek
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
+* [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
