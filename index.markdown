@@ -527,8 +527,8 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 
 ### Finally, remember to have fun!
 
-If you follow all these guidelines, prepare well in advance, and get plenty of 
-rest before the big day, you'll maximize your odds of having an event that's 
+If you follow all these guidelines, prepare well in advance, and get plenty of
+rest before the big day, you'll maximize your odds of having an event that's
 not just successful, but enjoyable as well. Good luck!
 
 ## Supporters
@@ -581,8 +581,8 @@ not just successful, but enjoyable as well. Good luck!
 * [Mattias Arrelid](http://arrelid.com/)
 * [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
 * [Michael Wawra] (http://wawra.co.uk) Geek
-* [Chris Weekly](http://chrisweekly.com/) 
-* [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats  
+* [Chris Weekly](http://chrisweekly.com/)
+* [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
