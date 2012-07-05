@@ -339,7 +339,7 @@ data and code.
 
 Attendees are often averse to building on top of platforms and datasets that
 could disappear or will incur usage fees after an event, try to avoid companies
-making resources available only for the duration the event and communicate
+making resources available only for the duration of the event and communicate
 clearly the risk of building on top of any alpha or beta APIs.
 
 ### Local API testbeds _Optional_
