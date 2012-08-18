@@ -385,6 +385,13 @@ prize for it relatively small, and give attendees a one-time token (a code on
 the reverse of their pass for large events, or a physical item for smaller ones)
 in order to vote.
 
+### Judge Selection
+
+The judges for your hackathon should reflect the nature of your event.
+For standard hackathons, judges should be primarily technical or knowledgable in the relevant thematic area (eg. musicians judging Music Hack Day).
+Try to avoid having businesspeople (VCs, non-technical founders, journalists, etc.) judge technical events, as it encourages hackers to build prototype businesses, not interesting hacks.
+It should be possible to win a hackathon based purely on technical merit, even if the hack is completely impractical.
+
 ### Judge previews _Optional_
 
 If possible, let the judges meet all the teams for a few minutes, a couple of
@@ -588,6 +595,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
+* [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
