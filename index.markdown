@@ -582,6 +582,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
+* [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
