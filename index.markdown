@@ -345,12 +345,6 @@ could disappear or will incur usage fees after an event, try to avoid companies
 making resources available only for the duration of the event and communicate
 clearly the risk of building on top of any alpha or beta APIs.
 
-### Local API testbeds _Optional_
-
-Where possible test servers for the APIs should be setup on the local network,
-this allows development to continue in the event of internet failure, and also
-isolates the live API's from the increased usage the hack day will cause.
-
 ## Demos
 
 ### Hack submissions
