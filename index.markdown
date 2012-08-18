@@ -595,6 +595,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
+* [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
