@@ -359,10 +359,11 @@ isolates the live API's from the increased usage the hack day will cause.
 If possible, have a shared, public listing of the hacks that have been
 submitted. This helps the judges, the attendees and bloggers/journalists who are
 covering the event.  Hack submissions should be as straight forward as possible.
-There are services like [Hacker League](http://hackerleague.org) that will handle
-submissions for you or you can use Google Docs, Etherpad or a wiki.  Make sure
-that all attendees have write access and can concurrently edit. Plan for the hack
-listing to stay around as a historical record.
+You can use Google Docs, Etherpad or a wiki.  Make sure that all attendees have
+write access and can concurrently edit. Plan for the hack listing to stay around
+as a historical record.  Alternatively, there are hack submission services that
+will handle the logistics for you like [Hacker League](http://hackerleague.org/),
+[Hackathon.io](http://hackathon.io), or [WeHack.it](http://wehack.it/).
 
 Anyone who hacks should be a allowed to demo at the end of the event, regardless
 of the quality or completeness.
