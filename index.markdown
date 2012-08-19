@@ -9,7 +9,34 @@ So you're organising a hack day or hackathon? Here are some basic requirements
 to make your event a success, and avoid the common pitfalls that could otherwise
 ruin it. If you cannot provide any of the following, make it clear to guests
 before registration. Attendees are generally forgiving when clear communication
-is given.
+is given. These are only guidelines, but exist to help you run a hack day in the
+easiest possible way.
+
+## Announcing the event
+
+Once you know when and how your event will take place, you'll want to tell the
+world about it. At a bare minimum, you should decide on a canonical place where
+all public information about the event lives - this might be a dedicated web
+site, an event on an existing event online service or some other place which is
+publicly accessible.
+
+### Registration _Optional_
+
+If you require your attendees to register, make it clear what information is
+required for signing up and what the deadline for the registration is. If
+there's a maximum number of attendees the venue can handle, communicate how the
+selection process works and when/how people will be notified if they've been
+granted attendance or not.
+
+If there's a waiting list for the event, make sure to explain how it works.
+
+Most registration forms lets applicants enter name, contact details and food
+preferences/allergies (if applicable). Depending on your event and your venue,
+you might want to ask for additional information - this manifesto lists a few
+other topics which might make sense to add to the registration form.
+
+There are also a number of things you probably should _not_ ask for, like
+gender, religious preferences etc.
 
 ## Venue
 
@@ -23,6 +50,9 @@ additional instructions to all attendees well in advance of the event.
 
 Include instructions/contacts/getting in arrangements, too (i.e., what
 do to at reception/security desks).
+
+Print big signs that will guide your attendees to the venue (and in some case
+inside the venue).
 
 ### Accessibility
 
@@ -65,7 +95,7 @@ remember that this may limit the number of people willing to travel after work.
 
 One of the most frustrating things for attendees to see is two similar events
 on the same day in the same area. To avoid this, check places like
-[Lanyrd](http://www.lanyrd.com), [Eventbrite](http://eventbrite.com) and ask on
+[Lanyrd](http://www.lanyrd.com) and [Eventbrite](http://eventbrite.com), and ask on
 twitter "anything going on in X on X". Remember that people may be travelling
 long distances for hack days, so even if an event is a few hundred miles away,
 you are still diluting your potental audience.
@@ -162,16 +192,19 @@ abusing the connection to the detriment of all others.
 
 DPI should not be used.
 
+### Ethernet to the Chair _Optional_
+
+In case of WiFi collapse (or if you can't provide adequate WiFi at all) you
+should have ethernet available at the chairs. Have at least fast ethernet
+feeding into a gigabit backbone arranged in an (extended) star topology.
+If you go ethernet-only, announce this up-front. Regardless if you provide
+cables or attendees bring their own, you should have a big pile of spare
+cables at the venue.
+
 ### Single subnet _Optional_
 
 Both wifi and ethernet should share a single subnet, allowing devices to
 communicate regardless of how they are connected to the network.
-
-### Ethernet to the Chair _Optional_
-
-In case of WiFi collapse you should have ethernet available at the chairs,
-at least fast ethernet feeding into a gigabit backbone arranged in a star
-or extended star topology.
 
 ## Power
 
@@ -181,10 +214,10 @@ You will need a minimum of 1.5 power sockets available for every seat. That's a
 minimum; many attendees will bring two, three, or more devices that require
 separate power.
 
-### PAT testing
+### Portable Appliance Testing
 
 As stated above, your attendees will be bringing two, three, or more devices
-making full PAT tests for every device an impossible endeavour. But if you are
+making full PATs for every device an impossible endeavour. But if you are
 providing a lot of power strips it can be worth getting them tested.
 
 ### Isolated power for hardware hacks _Optional_
@@ -309,7 +342,7 @@ data and code.
 
 Attendees are often averse to building on top of platforms and datasets that
 could disappear or will incur usage fees after an event, try to avoid companies
-making resources available only for the duration the event and communicate
+making resources available only for the duration of the event and communicate
 clearly the risk of building on top of any alpha or beta APIs.
 
 ### Local API testbeds _Optional_
@@ -324,9 +357,10 @@ isolates the live API's from the increased usage the hack day will cause.
 
 If possible, have a shared, public listing of the hacks that have been
 submitted. This helps the judges, the attendees and bloggers/journalists who are
-covering the event. This can be done with Google Docs, an Etherpad or with a
-page on a wiki. Several Hackday bespoke applications exist, too. Plan for that
-resource to stay around as a historical record of what was built.
+covering the event. You can use Google Docs, Etherpad or a wiki. Several Hackday
+bespoke applications exist, too. Make sure that all attendees have write access
+and can concurrently edit. Plan for the hack listing to stay around as a
+historical record.
 
 ### Time limit
 
@@ -489,11 +523,17 @@ the procedures are, what you're legally able to do and what kind of misbehaviour
 would actually trigger ejection. Some events have instituted safe space and
 anti-harassment policies due to widely reported incidents of sexual harassment.
 
-### Finally, keep your crew safe too
+### Keep your crew safe too
 
 Working at a hack day, as a volunteer or otherwise, can be a stressful and demanding
 job. Make sure your crew are safe, happy and well-fed throughout, and that
 you've got enough staff to cope with emergencies or unexpected dropouts!
+
+### Finally, remember to have fun!
+
+If you follow all these guidelines, prepare well in advance, and get plenty of
+rest before the big day, you'll maximize your odds of having an event that's
+not just successful, but enjoyable as well. Good luck!
 
 ## Supporters
 
@@ -513,7 +553,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
-* [Andy Piper](http://andypiper.co.uk/) hackathon supporter
+* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, VMware
 * [Sam Cook](http://samlr.com/)
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Seyi Ogunyemi](http://micrypt.com/)
@@ -537,10 +577,19 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Syd Lawrence] (http://sydlawrence.com) Developer
 * [Matt Clements] (http://mattclements.co.uk) Developer
 * [Carter Rabasa] (http://carter.rabasa.com) Developer Evangelist, Twilio
-* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant 
+* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant
 * [Alexandre Passant] (http://apassant.net) Music and Data Geek
 * [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
 * [Martyn Davies] (http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
+* [Chase Southard] (http://openlexington.org) OpenLexington
+* [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
+* [Mattias Arrelid](http://arrelid.com/)
+* [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
+* [Michael Wawra] (http://wawra.co.uk) Geek
+* [Chris Weekly](http://chrisweekly.com/)
+* [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
+* [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
+* [Tim Messerschmidt](https://twitter.com/SeraAndroid) Developer Evangelist, PayPal
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
