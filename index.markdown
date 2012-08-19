@@ -95,11 +95,10 @@ remember that this may limit the number of people willing to travel after work.
 
 One of the most frustrating things for attendees to see is two similar events
 on the same day in the same area. To avoid this, check places like
-[Lanyrd](http://www.lanyrd.com), [Eventbrite](http://eventbrite.com), or
-[Hacker League](http://hackerleague.org), and ask on twitter "anything going
-on in X on X". Remember that people may be travelling long distances for hack
-days, so even if an event is a few hundred miles away, you are still diluting
-your potental audience.
+[Lanyrd](http://www.lanyrd.com) and [Eventbrite](http://eventbrite.com),
+and ask on twitter "anything going on in X on X". Remember that people may be
+travelling long distances for hack days, so even if an event is a few hundred
+miles away, you are still diluting your potental audience.
 
 ## Overnight Events
 
