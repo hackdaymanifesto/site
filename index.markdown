@@ -390,7 +390,7 @@ in order to vote.
 The judges for your hackathon should reflect the nature of your event.
 For standard hackathons, judges should be primarily technical or knowledgable in the relevant thematic area (eg. musicians judging Music Hack Day).
 Try to avoid having businesspeople (VCs, non-technical founders, journalists, etc.) judge technical events, as it encourages hackers to build prototype businesses, not interesting hacks.
-It should be possible to win a hackathon based purely on technical merit, even if the hack is completely impractical.
+Your judging panel should be chosen to allow participants to win a hackathon based purely on technical merit, even if the hack is completely impractical as a business.
 
 ### Judge previews _Optional_
 
