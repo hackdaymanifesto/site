@@ -385,7 +385,7 @@ prize for it relatively small, and give attendees a one-time token (a code on
 the reverse of their pass for large events, or a physical item for smaller ones)
 in order to vote.
 
-### Judge Selection
+### Judge selection
 
 The judges for your hackathon should reflect the nature of your event.
 For standard hackathons, judges should be primarily technical or knowledgable in the relevant thematic area (eg. musicians judging Music Hack Day).
