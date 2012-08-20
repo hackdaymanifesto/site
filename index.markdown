@@ -467,14 +467,14 @@ assumptions about your attendees. Get someone who is demographically very
 different from you to check your marketing material through to see if it makes
 sense and isn't offensive to someone who doesn't share your background.
 
-### Do not charge attendees
+### Keep the cost to attend free, or low cost
 
 If developers are willing to donate their time -- which could otherwise be used
-for paid work or hanging out with family and friends -- they should not be
-charged for tickets. It shows a complete disrespect for the value of their
-time, and is likely to leave a bad feeling towards the organisers and
-sponsors. The developers are providing the sponsors a service in testing and
-showing the possibility of their APIs, data, products and services.
+for paid work or hanging out with family and friends -- you should consider not 
+charging for tickets to the event. An exorbitant charge to attend might be viewed as disrespectful to the time and efforts of attendees. Attendees may be providing the sponsors a service in testing and showing the possibility of their APIs, data, products and services.
+
+That said, for events that have limited seating or availability, a small ticket price to 
+attend may help discourage people from registering to attend before the event, and then failing to show up on the day of the event. Since this behavior could crowd out other potential attendees who might like to attend the event, consider how using a modestly priced ticket might encourage the desired behavior with respect to advance registration.
 
 ### Intellectual property
 
