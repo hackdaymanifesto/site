@@ -467,6 +467,10 @@ assumptions about your attendees. Get someone who is demographically very
 different from you to check your marketing material through to see if it makes
 sense and isn't offensive to someone who doesn't share your background.
 
+### Make the list of attendees public
+
+Publicly listing those that have registered for your event can generate enthusiasm and encourage others to sign up. It can also give those that might otherwise be hesitant to attend a chance to see who else will be there.
+
 ### Keep the cost to attend free, or low cost
 
 If developers are willing to donate their time -- which could otherwise be used
