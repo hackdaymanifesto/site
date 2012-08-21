@@ -601,6 +601,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
 * [Tim Messerschmidt](https://twitter.com/SeraAndroid) Developer Evangelist, PayPal
+* [Mark Headd](http://civic.io) Apps for SEPTA, Apps for Philly
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
