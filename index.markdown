@@ -234,11 +234,8 @@ with your attendees for dietary requirements: food allergies, vegetarians,
 vegans and people with dietary restrictions. Make provisions to ensure
 they are provided for equally. If you're on a budget, prioritise
 allergies and vegan alternatives; the vegan alternative will satisfy
-most non-allergy based requirements.
-
-### Allergies
-
-Common food allergies include milk, eggs, nuts, fish, shellfish, soya, and wheat (gluten).
+most non-allergy based requirements. Common food allergies include milk, 
+eggs, nuts, fish, shellfish, soya, and wheat (gluten).
 
 ### Breakfast
 
