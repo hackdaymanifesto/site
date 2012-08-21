@@ -237,6 +237,10 @@ they are provided for equally. If you're on a budget, prioritise
 allergies and vegan alternatives; the vegan alternative will satisfy
 most non-allergy based requirements.
 
+### Allergies
+
+Common food allergies include milk, eggs, nuts, fish, shellfish, soya, and wheat (gluten).
+
 ### Breakfast
 
 If your event starts before 11am you should provide breakfast to attendees,
@@ -268,6 +272,12 @@ attendees throughout the event.
 
 Chocolate, sweets, biscuits, fruit, crisps, etc. should be freely available to
 attendees throughout the event. Try to ensure there are healthy options too.
+
+### Healthy Alternatives
+
+It is sometimes difficult to know what type of "healthy" alternatives to provide for snacks.
+Fresh fruit, nuts, and vegetable platters can provide sustainable high energy levels to
+developers through out an event. 
 
 ### Alcohol
 
@@ -590,6 +600,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
 * [Tim Messerschmidt](https://twitter.com/SeraAndroid) Developer Evangelist, PayPal
+* [Aaron Franco] (http://blog.clickslide.co) CTO at ClickSlide Limited
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
