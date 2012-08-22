@@ -267,12 +267,8 @@ attendees throughout the event.
 ### Snacks
 
 Chocolate, sweets, biscuits, fruit, crisps, etc. should be freely available to
-attendees throughout the event. Try to ensure there are healthy options too.
-
-### Healthy Alternatives
-
-It is sometimes difficult to know what type of "healthy" alternatives to provide for snacks.
-Fresh fruit, nuts, and vegetable platters can provide sustainable high energy levels to
+attendees throughout the event. Try to ensure there are healthy options too. 
+Fresh fruit, nuts and vegetable platters can provide sustainable high energy levels to
 developers through out an event. 
 
 ### Alcohol
