@@ -591,6 +591,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
 * [Tim Messerschmidt](https://twitter.com/SeraAndroid) Developer Evangelist, PayPal
 * [Matthew Forr](http://twitter.com/matthewforr) Baltimore Hackathon Organizer
+* [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
