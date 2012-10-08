@@ -592,6 +592,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Tim Messerschmidt](https://twitter.com/SeraAndroid) Developer Evangelist, PayPal
 * [Matthew Forr](http://twitter.com/matthewforr) Baltimore Hackathon Organizer
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
+* [James Smith](http://cleanweb.org.uk) Cleanweb UK
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
