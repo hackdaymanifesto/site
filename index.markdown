@@ -95,10 +95,10 @@ remember that this may limit the number of people willing to travel after work.
 
 One of the most frustrating things for attendees to see is two similar events
 on the same day in the same area. To avoid this, check places like
-[Lanyrd](http://www.lanyrd.com) and [Eventbrite](http://eventbrite.com), and ask on
-twitter "anything going on in X on X". Remember that people may be travelling
-long distances for hack days, so even if an event is a few hundred miles away,
-you are still diluting your potental audience.
+[Lanyrd](http://www.lanyrd.com) and [Eventbrite](http://eventbrite.com),
+and ask on twitter "anything going on in X on X". Remember that people may be
+travelling long distances for hack days, so even if an event is a few hundred
+miles away, you are still diluting your potental audience.
 
 ## Overnight Events
 
@@ -138,7 +138,7 @@ attendee.
 
 As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP),
 VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP),
-HTTPS (443), Submission (587), IMAPS (993), MSN Messenger (1863),
+HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863),
 CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
 and Git (9418), must be open and accessible, without the need of
 proxy servers, and preferably without perimeter-level malware &c
@@ -358,10 +358,15 @@ isolates the live API's from the increased usage the hack day will cause.
 
 If possible, have a shared, public listing of the hacks that have been
 submitted. This helps the judges, the attendees and bloggers/journalists who are
-covering the event. You can use Google Docs, Etherpad or a wiki. Several Hackday
-bespoke applications exist, too. Make sure that all attendees have write access
-and can concurrently edit. Plan for the hack listing to stay around as a
-historical record.
+covering the event.  Hack submissions should be as straight forward as possible.
+You can use Google Docs, Etherpad or a wiki.  Make sure that all attendees have
+write access and can concurrently edit. Plan for the hack listing to stay around
+as a historical record.  Alternatively, there are hack submission services that
+will handle the logistics for you like [Hacker League](http://hackerleague.org/),
+[Hackathon.io](http://hackathon.io), or [WeHack.it](http://wehack.it/).
+
+Anyone who hacks should be a allowed to demo at the end of the event, regardless
+of the quality or completeness.
 
 ### Time limit
 
