@@ -598,6 +598,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Matthew Forr](http://twitter.com/matthewforr) Baltimore Hackathon Organizer
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
 * [Stefano Paluello](http://stefanopaluello.wordpress.com) Geek, Pastesoft
+* [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer 
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
