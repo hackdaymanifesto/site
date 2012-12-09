@@ -599,6 +599,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
 * [Stefano Paluello](http://stefanopaluello.wordpress.com) Geek, Pastesoft
 * [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer 
+* [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
