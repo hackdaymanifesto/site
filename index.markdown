@@ -602,6 +602,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer 
 * [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
 * [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day 
+* [James Smith](http://cleanweb.org.uk) Cleanweb UK
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
