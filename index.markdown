@@ -586,6 +586,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant
 * [Alexandre Passant] (http://apassant.net) Music and Data Geek
 * [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
+* [Martyn Davies] (http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
 * [Chase Southard] (http://openlexington.org) OpenLexington
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
 * [Mattias Arrelid](http://arrelid.com/)
