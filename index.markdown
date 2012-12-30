@@ -349,12 +349,6 @@ could disappear or will incur usage fees after an event, try to avoid companies
 making resources available only for the duration of the event and communicate
 clearly the risk of building on top of any alpha or beta APIs.
 
-### Local API testbeds _Optional_
-
-Where possible test servers for the APIs should be setup on the local network,
-this allows development to continue in the event of internet failure, and also
-isolates the live API's from the increased usage the hack day will cause.
-
 ## Demos
 
 ### Hack submissions
@@ -605,7 +599,6 @@ not just successful, but enjoyable as well. Good luck!
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
-<<<<<<< HEAD
 * [Tim Messerschmidt](https://twitter.com/SeraAndroid) Developer Evangelist, PayPal
 * [Matthew Forr](http://twitter.com/matthewforr) Baltimore Hackathon Organizer
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
@@ -616,6 +609,7 @@ not just successful, but enjoyable as well. Good luck!
 * [James Smith](http://cleanweb.org.uk) Cleanweb UK
 * [Aaron Franco] (http://blog.clickslide.co) CTO at ClickSlide Limited
 * [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
+* [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
