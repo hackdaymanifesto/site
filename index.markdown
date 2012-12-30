@@ -601,6 +601,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Stefano Paluello](http://stefanopaluello.wordpress.com) Geek, Pastesoft
 * [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer 
 * [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
+* [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day 
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
