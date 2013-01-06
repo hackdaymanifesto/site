@@ -537,6 +537,7 @@ you've got enough staff to cope with emergencies or unexpected dropouts!
 * [Sam Machin] (http://sammachin.com) Geek
 * [Paul Lamere] (http://MusicMachinery.com) Music Hack Day, The Echo Nest
 * [Syd Lawrence] (http://sydlawrence.com) Developer
+* [James Parton] (http://twilio.com) Twilio
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
