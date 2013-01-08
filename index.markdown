@@ -235,7 +235,7 @@ with your attendees for dietary requirements: food allergies, vegetarians,
 vegans and people with dietary restrictions. Make provisions to ensure
 they are provided for equally. If you're on a budget, prioritise
 allergies and vegan alternatives; the vegan alternative will satisfy
-most non-allergy based requirements. Common food allergies include milk, 
+most non-allergy based requirements. Common food allergies include milk,
 eggs, nuts, fish, shellfish, soya, and wheat (gluten).
 
 ### Breakfast
@@ -268,9 +268,9 @@ attendees throughout the event.
 ### Snacks
 
 Chocolate, sweets, biscuits, fruit, crisps, etc. should be freely available to
-attendees throughout the event. Try to ensure there are healthy options too. 
+attendees throughout the event. Try to ensure there are healthy options too.
 Fresh fruit, nuts and vegetable platters can provide sustainable high energy levels to
-developers through out an event. 
+developers through out an event.
 
 ### Alcohol
 
@@ -603,13 +603,14 @@ not just successful, but enjoyable as well. Good luck!
 * [Matthew Forr](http://twitter.com/matthewforr) Baltimore Hackathon Organizer
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
 * [Stefano Paluello](http://stefanopaluello.wordpress.com) Geek, Pastesoft
-* [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer 
+* [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer
 * [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
-* [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day 
+* [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day
 * [James Smith](http://cleanweb.org.uk) Cleanweb UK
 * [Aaron Franco] (http://blog.clickslide.co) CTO at ClickSlide Limited
 * [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
+* [James Parton] (http://twilio.com) Twilio
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
