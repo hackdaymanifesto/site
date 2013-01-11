@@ -611,6 +611,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
 * [James Parton] (http://twilio.com) Twilio
+* [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
