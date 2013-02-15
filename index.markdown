@@ -18,7 +18,12 @@ Once you know when and how your event will take place, you'll want to tell the
 world about it. At a bare minimum, you should decide on a canonical place where
 all public information about the event lives - this might be a dedicated web
 site, an event on an existing event online service or some other place which is
-publicly accessible.
+publicly accessible. 
+
+Once you've decided where that location is, use tools like Twitter and Facebook
+to make people aware of the event, and also consider which Google Groups and 
+mailing lists developers relevant to your event may be hanging out. Don't spam 
+them, though - nobody enjoys that.
 
 ### Registration _Optional_
 
@@ -95,10 +100,10 @@ remember that this may limit the number of people willing to travel after work.
 
 One of the most frustrating things for attendees to see is two similar events
 on the same day in the same area. To avoid this, check places like
-[Lanyrd](http://www.lanyrd.com) and [Eventbrite](http://eventbrite.com),
-and ask on twitter "anything going on in X on X". Remember that people may be
+[Lanyrd](http://www.lanyrd.com), [Eventbrite](http://eventbrite.com), [Meetup](http://www.meetup.com),
+and ask on Twitter "is anything going on in X on X?". Remember that people may be
 travelling long distances for hack days, so even if an event is a few hundred
-miles away, you are still diluting your potental audience.
+miles away, you are still diluting your potential audience.
 
 ## Overnight Events
 
@@ -139,7 +144,7 @@ attendee.
 As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP),
 VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP),
 HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863),
-CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
+MQTT (1883), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
 and Git (9418), must be open and accessible, without the need of
 proxy servers, and preferably without perimeter-level malware &c
 checks.
@@ -203,7 +208,7 @@ cables at the venue.
 
 ### Single subnet _Optional_
 
-Both wifi and ethernet should share a single subnet, allowing devices to
+Both WiFi and ethernet should share a single subnet, allowing devices to
 communicate regardless of how they are connected to the network.
 
 ## Power
@@ -224,7 +229,7 @@ providing a lot of power strips it can be worth getting them tested.
 ### Isolated power for hardware hacks _Optional_
 
 Isolating the power for those doing hardware hacks is generally a good idea,
-don't let one soldering iron knock out the entire venues power.
+don't let one soldering iron knock out the power for the entire venue.
 
 ## Sustenance
 
@@ -262,7 +267,7 @@ supplying something that can still be eaten after it has gone cold.
 ### Drinks
 
 A selection of coffee, green and black tea (plus milks, sugars), energy drinks,
-caffeinated and non-caffeinated soft drinks, juices and water should be freely available to
+caffeinated and non-caffeinated soft drinks, juices and _water_ should be freely available to
 attendees throughout the event.
 
 ### Snacks
@@ -297,7 +302,7 @@ to confirm that they are suitable, work, and are of a high enough quality.
 
 ### Multiple clients
 
-All APIs should provide client libraries in at least three of the major
+All APIs should provide client libraries in at least three major
 languages unless there is good reason for them not to (such as the target
 platform only supporting a single language).
 
@@ -414,7 +419,7 @@ one demo presenting while the next is setting up.
 
 ### Video connectors
 
-For the demos, either have a set of adapters handy for (Apple Mac) Mini DisplayPort, VGA,
+For the demos, either have a set of adapters handy for (Apple Mac) Thunderbolt, Mini DisplayPort, VGA,
 DVI, and HDMI video outputs, or make sure attendees know the projector's inputs
 ahead of time so they can make sure they have the relevant adapters.
 
@@ -563,7 +568,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
-* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, VMware
+* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, Cloud Foundry
 * [Sam Cook](http://samlr.com/)
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Seyi Ogunyemi](http://micrypt.com/)
