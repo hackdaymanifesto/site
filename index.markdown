@@ -18,11 +18,11 @@ Once you know when and how your event will take place, you'll want to tell the
 world about it. At a bare minimum, you should decide on a canonical place where
 all public information about the event lives - this might be a dedicated web
 site, an event on an existing event online service or some other place which is
-publicly accessible. 
+publicly accessible.
 
 Once you've decided where that location is, use tools like Twitter and Facebook
-to make people aware of the event, and also consider which Google Groups and 
-mailing lists developers relevant to your event may be hanging out. Don't spam 
+to make people aware of the event, and also consider which Google Groups and
+mailing lists developers relevant to your event may be hanging out. Don't spam
 them, though - nobody enjoys that.
 
 ### Registration _Optional_
@@ -617,6 +617,7 @@ not just successful, but enjoyable as well. Good luck!
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
 * [James Parton] (http://twilio.com) Twilio
 * [Ketan Majmudar](http://stereoartist.com) Developer (Titanium AppCamp & London Titanium organiser)
+* [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
