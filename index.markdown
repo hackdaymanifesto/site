@@ -616,7 +616,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
 * [James Parton] (http://twilio.com) Twilio
-* [Ketan Majmudar](http://stereoartist.com) Developer (Titanium AppCamp & London Titanium organiser)
+* [Ketan Majmudar](http://stereoartist.com) Developer (Titanium AppCamp &amp; London Titanium organiser)
 * [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
 
 </div>
