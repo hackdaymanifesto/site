@@ -552,7 +552,7 @@ not just successful, but enjoyable as well. Good luck!
 
 ## Supporters
 
-<div class="supporters" markdown='1'>
+<div class="supporters" markdown="1">
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
