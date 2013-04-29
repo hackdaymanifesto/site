@@ -482,6 +482,17 @@ assumptions about your attendees. Get someone who is demographically very
 different from you to check your marketing material through to see if it makes
 sense and isn't offensive to someone who doesn't share your background.
 
+### Make assumptions around privacy clear
+
+Tell people up front what level of privacy they should expect during the event.
+
+If you allow people to take photographs, tell photographers to respect people's
+privacy if they do not wish to be photographed: if someone objects to being
+photographed, they have a right to have that objection taken seriously.
+
+Sleeping areas should be explicitly marked as no photography as sleeping people
+are unable to implicitly consent to being photographed by not objecting.
+
 ### Do not charge attendees
 
 If developers are willing to donate their time -- which could otherwise be used
