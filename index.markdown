@@ -631,6 +631,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
 * [Ankur Oberoi](http://twitter.com/aoberoi) Developer Evangelist, TokBox
 * [Stephen Mount](http://stemount.co.uk) Developer
+* [Daniel Appelquist](http://overtheair.org) Over the Air
 
 </div>
 
