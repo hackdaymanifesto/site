@@ -632,6 +632,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Ankur Oberoi](http://twitter.com/aoberoi) Developer Evangelist, TokBox
 * [Stephen Mount](http://stemount.co.uk) Developer
 * [Daniel Appelquist](http://overtheair.org) Over the Air
+* [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder & organiser
 
 </div>
 
