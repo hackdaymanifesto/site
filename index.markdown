@@ -633,6 +633,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Stephen Mount](http://stemount.co.uk) Developer
 * [Daniel Appelquist](http://overtheair.org) Over the Air
 * [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder & organiser
+* [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
 
 </div>
 
