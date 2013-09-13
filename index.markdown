@@ -568,7 +568,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
-* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
+* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London &amp; PayPal
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
 * [Tom Scott](http://tomscott.com/)
 * [Hadley Beeman](http://linkedgov.org/) LinkedGov
