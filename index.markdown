@@ -141,12 +141,12 @@ attendee.
 
 ### Minimal firewalling
 
-As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP),
+As a minimum: ports used for SSH (22), DNS (53 — TCP &amp; UDP),
 VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP),
 HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863),
 MQTT (1883), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
 and Git (9418), must be open and accessible, without the need of
-proxy servers, and preferably without perimeter-level malware &c
+proxy servers, and preferably without perimeter-level malware c
 checks.
 
 ### Subnet / DHCP capacity
@@ -632,7 +632,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Ankur Oberoi](http://twitter.com/aoberoi) Developer Evangelist, TokBox
 * [Stephen Mount](http://stemount.co.uk) Developer
 * [Daniel Appelquist](http://overtheair.org) Over the Air
-* [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder & organiser
+* [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder &amp; organiser
 * [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
 
 </div>
