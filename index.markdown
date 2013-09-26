@@ -137,7 +137,9 @@ venues and suppliers.
 
 Many commercial WiFi providers plan for much lower use than actually occurs at
 hack days. The network should be capable of handling at least 4 devices per
-attendee.
+attendee. Below we suggest some minimal useful settings and approaches, but we
+also suggest taking a look at [this nice guide to conference wireless](http://thilo.me/post/62067077735/the-conference-wifi-checklist)
+by [Thilo Utke](http://twitter.com/freaklikeme).
 
 ### Minimal firewalling
 
