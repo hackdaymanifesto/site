@@ -634,6 +634,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Daniel Appelquist](http://overtheair.org) Over the Air
 * [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder & organiser
 * [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
+* [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
 
 </div>
 
