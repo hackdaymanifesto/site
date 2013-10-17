@@ -634,6 +634,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder &amp; organiser
 * [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
 * [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
+* [Mike Elsmore](http://elsmore.me) Hackference found &amp; organiser
 
 </div>
 
