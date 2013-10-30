@@ -635,6 +635,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
 * [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
 * [Mike Elsmore](http://elsmore.me) Hackference founder &amp; organiser
+* [Paolo Sinelli](http://www.whymca.org/) WhyMCA co-founder &amp; organiser
 
 </div>
 
