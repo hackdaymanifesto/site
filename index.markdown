@@ -636,6 +636,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
 * [Mike Elsmore](http://elsmore.me) Hackference founder &amp; organiser
 * [Paolo Sinelli](http://www.whymca.org/) WhyMCA co-founder &amp; organiser
+* [James Cox](http://twitter.com/JamesAaronCox/) Developer Evangelist, The Hackfest
 
 </div>
 
