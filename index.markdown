@@ -637,6 +637,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Mike Elsmore](http://elsmore.me) Hackference founder &amp; organiser
 * [Paolo Sinelli](http://www.whymca.org/) WhyMCA co-founder &amp; organiser
 * [James Cox](http://twitter.com/JamesAaronCox/) Developer Evangelist, The Hackfest
+* [Tracy Abrahms](http://twitter.com/HackyGoLucky) PDXNode organizer
 
 </div>
 
