@@ -639,6 +639,7 @@ not just successful, but enjoyable as well. Good luck!
 * [James Cox](http://twitter.com/JamesAaronCox/) Developer Evangelist, The Hackfest
 * [Tracy Abrahms](http://twitter.com/HackyGoLucky) PDXNode organizer
 * [Scott Motte](http://scottmotte.com) Developer Evangelist, SendGrid
+* [Rob Finean](http://www.meetup.com/UK-Hackathons-and-Jams/) UK Hackathons &amp; Jams
 
 </div>
 
