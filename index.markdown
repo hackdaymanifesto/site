@@ -194,12 +194,12 @@ expected number of attendees and IP addresses if possible.
 Traffic shaping and monitoring should be employed to help prevent a few users
 abusing the connection to the detriment of all others.
 
-DPI should not be used.
+Deep packet inspection should not be used.
 
 ### Ethernet to the Chair _Optional_
 
 In case of WiFi collapse (or if you can't provide adequate WiFi at all) you
-should have ethernet available at the chairs. Have at least fast ethernet
+should have ethernet available at the chairs. Have at least 100 megabit ethernet
 feeding into a gigabit backbone arranged in an (extended) star topology.
 If you go ethernet-only, announce this up-front. Regardless if you provide
 cables or attendees bring their own, you should have a big pile of spare
