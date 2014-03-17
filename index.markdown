@@ -60,7 +60,7 @@ If the venue has security that your attendees must get through include instructi
 Print big signs or posters that will guide your attendees to the venue (and in some case
 inside the venue). Ensure that these are visible from a distance and are easily recognisable. Depending on the size of the event, it may be advisable to get helpers to direct people from the local train station to the venue.
 
-The aim is to get attendees through the welcome desk as quickly as possible to avoid queues, so make things easy for the person manning the desk. Either have an registered attendee list printed out, or a simple digital solution (such as [Eventbrite](http://eventbrite.com)). If you have gift bags to hand out, ensure they are made up prior to the event and ready to hand out. Keep these close to the person manning the desk. 
+If possible, make sure there is enough room to queue inside as it's not nice to have to be outside if it is cold. The aim is to get attendees through the welcome desk as quickly as possible to avoid queues, so make things easy for the person manning the desk. Either have an registered attendee list printed out, or a simple digital solution (such as [Eventbrite](http://eventbrite.com)). If you have gift bags to hand out, ensure they are made up prior to the event and ready to hand out. Keep these close to the person manning the desk. 
 
 ### Accessibility
 
