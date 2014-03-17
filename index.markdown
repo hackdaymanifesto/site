@@ -40,8 +40,8 @@ preferences/allergies (if applicable). Depending on your event and your venue,
 you might want to ask for additional information - this manifesto lists a few
 other topics which might make sense to add to the registration form.
 
-There are also a number of things you probably should _not_ ask for, like
-gender, religious preferences etc.
+There are also a number of things you probably should _not_ ask for, such as
+gender, religious preferences or sexual orientation.
 
 ## Venue
 
@@ -53,11 +53,14 @@ alternative means of transportation, such as coaches to/from local transport
 hubs throughout the event. Provide a full address, and if necessary,
 additional instructions to all attendees well in advance of the event.
 
-Include instructions/contacts/getting in arrangements, too (i.e., what
-to do at reception/security desks).
+If the venue has security that your attendees must get through include instructions/contacts/getting in arrangements as well.
 
-Print big signs that will guide your attendees to the venue (and in some case
-inside the venue).
+### Welcoming Particiapnts
+
+Print big signs or posters that will guide your attendees to the venue (and in some case
+inside the venue). Ensure that these are visible from a distance and are easily recognisable. Depending on the size of the event, it may be advisable to get helpers to direct people from the local train station to the venue.
+
+The aim is to get attendees through the welcome desk as quickly as possible to avoid queues, so make things easy for the person manning the desk. Either have an registered attendee list printed out, or a simple digital solution (such as [Eventbrite](http://eventbrite.com)). If you have gift bags to hand out, ensure they are made up prior to the event and ready to hand out. Keep these close to the person manning the desk. 
 
 ### Accessibility
 
