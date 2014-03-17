@@ -644,6 +644,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Scott Motte](http://scottmotte.com) Developer Evangelist, SendGrid
 * [Rob Finean](http://www.meetup.com/UK-Hackathons-and-Jams/) UK Hackathons &amp; Jams
 * [James Billingham](http://twitter.com/BillinghamJ)
+* [Kevin Lewis](http://twitter.com/phazonoverload)
 
 </div>
 
