@@ -578,7 +578,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
-* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, Cloud Foundry
+* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, Twitter
 * [Sam Cook](http://samlr.com/)
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Seyi Ogunyemi](http://micrypt.com/)
