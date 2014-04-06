@@ -572,7 +572,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Tom Scott](http://tomscott.com/)
 * [Hadley Beeman](http://linkedgov.org/) LinkedGov
 * [Dom Hodgson](http://thehodge.co.uk) Leeds Hack
-* [Sheila Thomson] (http://kaikoda.com) Kaikoda
+* [Sheila Thomson](http://kaikoda.com) Kaikoda
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [James Darling](http://abscond.org/) Music Hack Day, Rewired State
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
@@ -591,26 +591,26 @@ not just successful, but enjoyable as well. Good luck!
 * [Abe Stanway](http://hackerleague.org) Hacker League
 * [Michel Jansen](http://micheljansen.org/)
 * [Swift](http://hackerleague.org/) Hacker League
-* [Margaret Gold] (http://overtheair.org) Over the Air
-* [Alexey Komissarouk] (http://pennapps.com) PennApps
-* [Andrew Mager] (http://mager.co) Hacker Advocate, Spotify
-* [Jack Pearkes] (http://api.jack.ly) Developer Advocate, Kiip
-* [Andrew Nesbitt] (http://forwardtechnology.co.uk) Developer, Forward
-* [Mijndert Stuij] (http://mijndertstuij.nl)
-* [Sam Machin] (http://sammachin.com) Geek
-* [Paul Lamere] (http://MusicMachinery.com) Music Hack Day
-* [Syd Lawrence] (http://sydlawrence.com) Developer
-* [Matt Clements] (http://mattclements.co.uk) Developer
-* [Carter Rabasa] (http://carter.rabasa.com) Developer Evangelist, Twilio
-* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant
-* [Alexandre Passant] (http://apassant.net) Music and Data Geek
-* [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
-* [Martyn Davies] (http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
-* [Chase Southard] (http://openlexington.org) OpenLexington
+* [Margaret Gold](http://overtheair.org) Over the Air
+* [Alexey Komissarouk](http://pennapps.com) PennApps
+* [Andrew Mager](http://mager.co) Hacker Advocate, Spotify
+* [Jack Pearkes](http://api.jack.ly) Developer Advocate, Kiip
+* [Andrew Nesbitt](http://forwardtechnology.co.uk) Developer, Forward
+* [Mijndert Stuij](http://mijndertstuij.nl)
+* [Sam Machin](http://sammachin.com) Geek
+* [Paul Lamere](http://MusicMachinery.com) Music Hack Day
+* [Syd Lawrence](http://sydlawrence.com) Developer
+* [Matt Clements](http://mattclements.co.uk) Developer
+* [Carter Rabasa](http://carter.rabasa.com) Developer Evangelist, Twilio
+* [Jannette Mensch](http://design-mensch.de) IxD &amp; Hack Day participant
+* [Alexandre Passant](http://apassant.net) Music and Data Geek
+* [Paul Osman](http://paulosman.me) Developer Evangelist, SoundCloud
+* [Martyn Davies](http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
+* [Chase Southard](http://openlexington.org) OpenLexington
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
 * [Mattias Arrelid](http://arrelid.com/)
 * [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
-* [Michael Wawra] (http://wawra.co.uk) Geek
+* [Michael Wawra](http://wawra.co.uk) Geek
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
@@ -622,12 +622,12 @@ not just successful, but enjoyable as well. Good luck!
 * [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
 * [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day
 * [James Smith](http://cleanweb.org.uk) Cleanweb UK
-* [Aaron Franco] (http://blog.clickslide.co) CTO at ClickSlide Limited
+* [Aaron Franco](http://blog.clickslide.co) CTO at ClickSlide Limited
 * [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
-* [James Parton] (http://twilio.com) Twilio
+* [James Parton](http://twilio.com) Twilio
 * [Ketan Majmudar](http://stereoartist.com) Developer (Titanium AppCamp &amp; London Titanium organiser)
-* [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
+* [Derk Braakman](http://developers.hyves.nl) Product Manager API, Hyves
 * [Ankur Oberoi](http://twitter.com/aoberoi) Developer Evangelist, TokBox
 * [Stephen Mount](http://stemount.co.uk) Developer
 * [Daniel Appelquist](http://overtheair.org) Over the Air
