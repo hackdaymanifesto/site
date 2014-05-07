@@ -645,6 +645,7 @@ not just successful, but enjoyable as well. Good luck!
 * [James Billingham](http://twitter.com/BillinghamJ)
 * [Tim Fogarty](http://twitter.com/tfogo) Major League Hacking UK, HackSoc Nottingham
 * [Ariel Waldman](http://arielwaldman.com) Global Instigator, Science Hack Day
+* [Danilo Sierra](http://twitter.com/danilosierrac) Office manager and hackathon little helper
 
 </div>
 
