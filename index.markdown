@@ -18,7 +18,9 @@ Once you know when and how your event will take place, you'll want to tell the
 world about it. At a bare minimum, you should decide on a canonical place where
 all public information about the event lives - this might be a dedicated web
 site, an event on an existing event online service or some other place which is
-publicly accessible.
+publicly accessible. Also, express clearly the nature of the event and the outcome.
+No attendee should ever leave the event feeling he/she just gave away work for free, but
+understanding clearly in which way they were specifically part of something big.
 
 Once you've decided where that location is, use tools like Twitter and Facebook
 to make people aware of the event, and also consider which Google Groups and
