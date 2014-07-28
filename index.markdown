@@ -643,6 +643,7 @@ not just successful, but enjoyable as well. Good luck!
 * [James Billingham](http://twitter.com/BillinghamJ)
 * [Tim Fogarty](http://twitter.com/tfogo) Major League Hacking UK, HackSoc Nottingham
 * [Ariel Waldman](http://arielwaldman.com) Global Instigator, Science Hack Day
+* [Dan Cunningham](http://hack4good.io) Head of Geeklist Corps of Developers + #hack4good global organiser
 
 </div>
 
