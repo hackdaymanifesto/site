@@ -217,7 +217,8 @@ communicate regardless of how they are connected to the network.
 You will need a minimum of 1.5 power sockets available for every seat. That's a
 minimum; many attendees will bring two, three, or more devices that require
 separate power. Have spare cables available. Make sure you have access to the
- fuses of all used power circuits.
+ fuses of all used power circuits, and confirm with the venue that the circuits
+ have enough current to support the event.
 
 ### Portable Appliance Testing
 
