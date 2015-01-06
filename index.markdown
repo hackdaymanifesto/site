@@ -143,7 +143,7 @@ attendee.
 
 As a minimum: ports used for SSH (22), DNS (53 — TCP &amp; UDP),
 VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP),
-HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863),
+HTTPS (443), Submissions (587), IMAPS (993),
 MQTT (1883), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
 and Git (9418), must be open and accessible, without the need of
 proxy servers, and preferably without perimeter-level malware checks.
