@@ -481,6 +481,14 @@ assumptions about your attendees. Get someone who is demographically very
 different from you to check your marketing material through to see if it makes
 sense and isn't offensive to someone who doesn't share your background.
 
+It is highly recommended to adopt the [Hack Code of Conduct](http://hackcodeofconduct.org) either
+directly or by creating a custom version of this code of conduct for your event
+and to communicate clearly to attendees ahead of time the existence of this
+code ane the enforcement policy behind it.  In addition, the code should be
+linked prominently from the event web site and promoted by the event organizers
+and by members of the event's community. The code should be known to and practiced
+by event staff and volunteers and enforcement procecures should be clear.
+
 ### Make assumptions around privacy clear
 
 Tell people up front what level of privacy they should expect during the event.
