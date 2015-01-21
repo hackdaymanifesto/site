@@ -141,13 +141,12 @@ attendee.
 
 ### Minimal firewalling
 
-As a minimum: ports used for SSH (22), DNS (53 — TCP & UDP),
+As a minimum: ports used for SSH (22), DNS (53 — TCP &amp; UDP),
 VPN (47, 500, 1701, 1723, 5500), HTTP (80), NTP (123 — UDP),
-HTTPS (443), Submissions (587), IMAPS (993), MSN Messenger (1863),
+HTTPS (443), Submissions (587), IMAPS (993),
 MQTT (1883), CVS (2401), Subversion (3690), XMPP/Jabber (5222), IRC (6665-9),
 and Git (9418), must be open and accessible, without the need of
-proxy servers, and preferably without perimeter-level malware &c
-checks.
+proxy servers, and preferably without perimeter-level malware checks.
 
 ### Subnet / DHCP capacity
 
@@ -195,12 +194,12 @@ expected number of attendees and IP addresses if possible.
 Traffic shaping and monitoring should be employed to help prevent a few users
 abusing the connection to the detriment of all others.
 
-DPI should not be used.
+Deep packet inspection should not be used.
 
 ### Ethernet to the Chair _Optional_
 
 In case of WiFi collapse (or if you can't provide adequate WiFi at all) you
-should have ethernet available at the chairs. Have at least fast ethernet
+should have ethernet available at the chairs. Have at least 100 megabit ethernet
 feeding into a gigabit backbone arranged in an (extended) star topology.
 If you go ethernet-only, announce this up-front. Regardless if you provide
 cables or attendees bring their own, you should have a big pile of spare
@@ -218,7 +217,7 @@ communicate regardless of how they are connected to the network.
 You will need a minimum of 1.5 power sockets available for every seat. That's a
 minimum; many attendees will bring two, three, or more devices that require
 separate power. Have spare cables available. Make sure you have access to the
- fuses of all used power circuits.
+ fuses of all used power circuits, and review power requirements with the venue.
 
 ### Portable Appliance Testing
 
@@ -580,18 +579,18 @@ not just successful, but enjoyable as well. Good luck!
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
 * [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
-* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London
+* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London &amp; PayPal
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
 * [Tom Scott](http://tomscott.com/)
 * [Hadley Beeman](http://linkedgov.org/) LinkedGov
 * [Dom Hodgson](http://thehodge.co.uk) Leeds Hack
-* [Sheila Thomson] (http://kaikoda.com) Kaikoda
+* [Sheila Thomson](http://kaikoda.com) Kaikoda
 * [Jason Grant](http://flexewebs.com) Flexewebs
 * [James Darling](http://abscond.org/) Music Hack Day, Rewired State
 * [Jonathan Markwell](http://inuda.org/) Inuda Community
 * [Hannes Ebner](http://greenhackathon.com/) Green Hackathon
 * [Jorge Zapico](http://greenhackathon.com/) Green Hackathon
-* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, Cloud Foundry
+* [Andy Piper](http://andypiper.co.uk/) Developer Advocate, Twitter
 * [Sam Cook](http://samlr.com/)
 * [Chad McCallum](http://hackdays.ca/) HackDays Organizer
 * [Seyi Ogunyemi](http://micrypt.com/)
@@ -604,26 +603,26 @@ not just successful, but enjoyable as well. Good luck!
 * [Abe Stanway](http://hackerleague.org) Hacker League
 * [Michel Jansen](http://micheljansen.org/)
 * [Swift](http://hackerleague.org/) Hacker League
-* [Margaret Gold] (http://overtheair.org) Over the Air
-* [Alexey Komissarouk] (http://pennapps.com) PennApps
-* [Andrew Mager] (http://mager.co) Hacker Advocate, Spotify
-* [Jack Pearkes] (http://api.jack.ly) Developer Advocate, Kiip
-* [Andrew Nesbitt] (http://forwardtechnology.co.uk) Developer, Forward
-* [Mijndert Stuij] (http://mijndertstuij.nl)
-* [Sam Machin] (http://sammachin.com) Geek
-* [Paul Lamere] (http://MusicMachinery.com) Music Hack Day
-* [Syd Lawrence] (http://sydlawrence.com) Developer
-* [Matt Clements] (http://mattclements.co.uk) Developer
-* [Carter Rabasa] (http://carter.rabasa.com) Developer Evangelist, Twilio
-* [Jannette Mensch] (http://design-mensch.de) IxD &amp; Hack Day participant
-* [Alexandre Passant] (http://apassant.net) Music and Data Geek
-* [Paul Osman] (http://paulosman.me) Developer Evangelist, SoundCloud
-* [Martyn Davies] (http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
-* [Chase Southard] (http://openlexington.org) OpenLexington
+* [Margaret Gold](http://overtheair.org) Over the Air
+* [Alexey Komissarouk](http://pennapps.com) PennApps
+* [Andrew Mager](http://mager.co) Hacker Advocate, Spotify
+* [Jack Pearkes](http://api.jack.ly) Developer Advocate, Kiip
+* [Andrew Nesbitt](http://forwardtechnology.co.uk) Developer, Forward
+* [Mijndert Stuij](http://mijndertstuij.nl)
+* [Sam Machin](http://sammachin.com) Geek
+* [Paul Lamere](http://MusicMachinery.com) Music Hack Day
+* [Syd Lawrence](http://sydlawrence.com) Developer
+* [Matt Clements](http://mattclements.co.uk) Developer
+* [Carter Rabasa](http://carter.rabasa.com) Developer Evangelist, Twilio
+* [Jannette Mensch](http://design-mensch.de) IxD &amp; Hack Day participant
+* [Alexandre Passant](http://apassant.net) Music and Data Geek
+* [Paul Osman](http://paulosman.me) Developer Evangelist, SoundCloud
+* [Martyn Davies](http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
+* [Chase Southard](http://openlexington.org) OpenLexington
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
 * [Mattias Arrelid](http://arrelid.com/)
 * [Jeremy Keith](http://adactio.com/) Founder, Science Hack Day
-* [Michael Wawra] (http://wawra.co.uk) Geek
+* [Michael Wawra](http://wawra.co.uk) Geek
 * [Chris Weekly](http://chrisweekly.com/)
 * [Sam Smith](http://twitter.com/smithsam) organiser, ex-RS, wears semi-contradictory hats
 * [Johan Uhle](http://freenerd.de) Freenerd, Music Hack Day organizer
@@ -635,15 +634,29 @@ not just successful, but enjoyable as well. Good luck!
 * [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
 * [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day
 * [James Smith](http://cleanweb.org.uk) Cleanweb UK
-* [Aaron Franco] (http://blog.clickslide.co) CTO at ClickSlide Limited
+* [Aaron Franco](http://blog.clickslide.co) CTO at ClickSlide Limited
 * [Jonathan Gottfried](http://twitter.com/jonmarkgo) Developer Evangelist at Twilio, hackathon organizer
 * [John Bunting](http://blog.johnbunting.me) Tumblr API Lead
-* [James Parton] (http://twilio.com) Twilio
+* [James Parton](http://twilio.com) Twilio
 * [Ketan Majmudar](http://stereoartist.com) Developer (Titanium AppCamp &amp; London Titanium organiser)
-* [Derk Braakman] (http://developers.hyves.nl) Product Manager API, Hyves
+* [Derk Braakman](http://developers.hyves.nl) Product Manager API, Hyves
 * [Ankur Oberoi](http://twitter.com/aoberoi) Developer Evangelist, TokBox
 * [Stephen Mount](http://stemount.co.uk) Developer
 * [Daniel Appelquist](http://overtheair.org) Over the Air
+* [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder &amp; organiser
+* [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
+* [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
+* [Mike Elsmore](http://elsmore.me) Hackference founder &amp; organiser
+* [Paolo Sinelli](http://www.whymca.org/) WhyMCA co-founder &amp; organiser
+* [James Cox](http://twitter.com/JamesAaronCox/) Developer Evangelist, The Hackfest
+* [Tracy Abrahms](http://twitter.com/HackyGoLucky) PDXNode organizer
+* [Scott Motte](http://scottmotte.com) Developer Evangelist, SendGrid
+* [Rob Finean](http://www.meetup.com/UK-Hackathons-and-Jams/) UK Hackathons &amp; Jams
+* [James Billingham](http://twitter.com/BillinghamJ)
+* [Tim Fogarty](http://twitter.com/tfogo) Major League Hacking UK, HackSoc Nottingham
+* [Ariel Waldman](http://arielwaldman.com) Global Instigator, Science Hack Day
+* [Dan Cunningham](http://hack4good.io) Head of Geeklist Corps of Developers + #hack4good global organiser
+* [Shyamal Ruparel](http://ruparel.co) LocalHackDay.mlh.io organizer
 
 </div>
 
