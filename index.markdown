@@ -492,7 +492,7 @@ code and the enforcement policy behind it.
 In addition, the code should be linked prominently from the event web site and
 promoted by the event organizers and by members of the event's community. The code
 should be known to and practiced by event staff and volunteers and enforcement
-procedures Should be clear.
+procedures should be clear.
 
 ### Make assumptions around privacy clear
 
