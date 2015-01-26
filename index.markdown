@@ -481,6 +481,19 @@ assumptions about your attendees. Get someone who is demographically very
 different from you to check your marketing material through to see if it makes
 sense and isn't offensive to someone who doesn't share your background.
 
+Many event attendees expect events to have and enforce a code of conduct. Having
+such a code encourages diversity of participation and can help to create and maintain a
+welcoming environment. It is highly recommended to adopt a code of conduct for
+your event. One such example is the [Hack Code of Conduct](http://hackcodeofconduct.org),
+and there are several other appropriate examples. You can either reference your chosen
+code of conduct directly or create your own customized version.
+Make sure to communicate clearly to attendees ahead of time the existence of this 
+code and the enforcement policy behind it.
+In addition, the code should be linked prominently from the event web site and
+promoted by the event organizers and by members of the event's community. The code
+should be known to and practiced by event staff and volunteers and enforcement
+procedures should be clear.
+
 ### Make assumptions around privacy clear
 
 Tell people up front what level of privacy they should expect during the event.
