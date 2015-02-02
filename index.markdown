@@ -658,6 +658,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Ariel Waldman](http://arielwaldman.com) Global Instigator, Science Hack Day
 * [Dan Cunningham](http://hack4good.io) Head of Geeklist Corps of Developers + #hack4good global organiser
 * [Shyamal Ruparel](http://ruparel.co) LocalHackDay.mlh.io organizer
+* [Klaus Bravenboer](http://www.hackhumanity.org) HackHumanity founder + organizer
 
 </div>
 
