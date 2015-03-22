@@ -105,6 +105,24 @@ and ask on Twitter "is anything going on in X on X?". Remember that people may b
 travelling long distances for hack days, so even if an event is a few hundred
 miles away, you are still diluting your potential audience.
 
+## Size Matters
+
+When you're planning your event you need to make sure you are aware of the number of people you want to have at your hackathon, as well as the impact this will have when planning your hackathon. 
+
+The more attendees you get, the more you will have to account for budget expenses. Food costs will increase. You will have to obtain much more robust internet. You will need a larger venue. Your operational costs and planning will increase significantly.
+
+### Planning for size
+
+With great power, comes great responsibility. Hosting a hackathon with 100+ hackers does not end when you manage to secure enough budget to cover internet/food/venue. Your planning and logistics need to be well thought as well. 
+
+With smaller events (60 people or less), it's easier to provide a better personal experience to individual attendees. With relatively less resources, it is possible to make attendees feelthey are getting enough mentorship, enough support if they have problems, good consideration when judging their hack, etc. 
+
+With larger events (100+ attendees) this tends to be harder to accomplish. You will need to get volunteers or helpers to be able to provide that sense of support. If you're planning to bring mentors, you will probably have to get more. Judging also becomes a concern, as a single panel of judges would have to go through hours of pitches when 50+ teams are presenting - solutions for judging larger events have included a tournament-like judging, multiple judging panels, etc.
+
+### Bigger is not always better
+
+You should not try to host a bigger hackathon just for the sake of it. Make sure you are aware of the implications larger hackathons have. You should always make sure you are aware what your own hackathon's limits are (e.g. budget, venue, etc). It's always be better to have too many resources for less people, than too little resources for too many people. 
+
 ## Overnight Events
 
 ### Sleeping provision
