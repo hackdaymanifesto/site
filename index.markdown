@@ -659,6 +659,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Dan Cunningham](http://hack4good.io) Head of Geeklist Corps of Developers + #hack4good global organiser
 * [Shyamal Ruparel](http://ruparel.co) LocalHackDay.mlh.io organizer
 * [Klaus Bravenboer](http://www.hackhumanity.org) HackHumanity founder + organizer
+* [Andrew Seward](http://www.hack24.co.uk) Hack24 founder &amp; organizer
 
 </div>
 
