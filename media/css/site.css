@@ -66,15 +66,15 @@ footer p {
     margin: 0;
 }
 
-.share {
-    text-align: center;
+footer p span {
+    display: none;
 }
 
 .share a {
     color: #000;
     display: inline-block;
     font-family: Verdana, Helvetica, sans-serif;
-    font-size: 11px;
+    font-size: 12px;
     height: 16px;
     line-height: 16px;
     margin-right: 3px;
@@ -85,6 +85,22 @@ footer p {
 
 .share a:hover {
     opacity: 0.75;
+}
+
+.fa-facebook-official {
+  color: rgb(58,87,149);
+}
+
+.fa-twitter {
+  color: rgb(84,170,236);
+}
+
+.fa-google-plus-square {
+  color: rgb(219,74,57);
+}
+
+.fa-hacker-news {
+  color: rgb(255,102,0);
 }
 
 @media (min-width: 500px) {
