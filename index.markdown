@@ -336,7 +336,7 @@ of records before downloading and importing multi-gigabyte files.
 
 ### API Keys
 
-If an API requires an key to use it, then make sure that someone is on site and
+If an API requires a key to use it, then make sure that someone is on site and
 able to authorize the requests quickly, and with as little fuss as possible.
 
 ### Licensing
