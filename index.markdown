@@ -632,7 +632,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
 * [Stefano Paluello](http://stefanopaluello.wordpress.com) Geek, Pastesoft
 * [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer
-* [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
+* [Richard Kastelein](http://www.hackitarians.com) Hackfest Organiser (London, San Francisco, Utrecht, Brussels, Berlin)
 * [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day
 * [James Smith](http://cleanweb.org.uk) Cleanweb UK
 * [Aaron Franco](http://blog.clickslide.co) CTO at ClickSlide Limited
