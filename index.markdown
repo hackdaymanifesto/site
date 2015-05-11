@@ -487,7 +487,7 @@ welcoming environment. It is highly recommended to adopt a code of conduct for
 your event. One such example is the [Hack Code of Conduct](http://hackcodeofconduct.org),
 and there are several other appropriate examples. You can either reference your chosen
 code of conduct directly or create your own customized version.
-Make sure to communicate clearly to attendees ahead of time the existence of this 
+Make sure to communicate clearly to attendees ahead of time the existence of this
 code and the enforcement policy behind it.
 In addition, the code should be linked prominently from the event web site and
 promoted by the event organizers and by members of the event's community. The code
@@ -632,7 +632,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Joel Franusic](http://joel.franusic.com) Developer Evangelist, Twilio
 * [Stefano Paluello](http://stefanopaluello.wordpress.com) Geek, Pastesoft
 * [Olof Mathé](http://twitter.com/olofster) Art Hack Day organizer
-* [Richard Kastelein](http://www.hackfest.tv) TV Hackfest Organiser (London, San Francisco)
+* [Richard Kastelein](http://www.hackitarians.com) Hackfest Organiser
 * [Daigo Fujiwara](http://about.me/daigofujiwara) Founder, Boston Baseball Hack Day
 * [James Smith](http://cleanweb.org.uk) Cleanweb UK
 * [Aaron Franco](http://blog.clickslide.co) CTO at ClickSlide Limited
