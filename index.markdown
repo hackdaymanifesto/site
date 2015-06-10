@@ -660,7 +660,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Shyamal Ruparel](http://ruparel.co) LocalHackDay.mlh.io organizer
 * [Klaus Bravenboer](http://www.hackhumanity.org) HackHumanity founder + organizer
 * [Andrew Seward](http://www.hack24.co.uk) Hack24 founder &amp; organizer
-
+* [Angus Fox](http://www.multizone.co.uk) CTO to go &amp; Product Manager &amp; Secretary, Social Developers London
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
