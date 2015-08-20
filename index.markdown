@@ -646,6 +646,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Daniel Appelquist](http://overtheair.org) Over the Air
 * [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder &amp; organiser
 * [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
+* [Manoj Nathwani](http://manoj.ninja) Hackathon enthusiast, Banter Ventures
 * [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
 * [Mike Elsmore](http://elsmore.me) Hackference founder &amp; organiser
 * [Paolo Sinelli](http://www.whymca.org/) WhyMCA co-founder &amp; organiser
