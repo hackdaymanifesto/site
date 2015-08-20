@@ -646,7 +646,6 @@ not just successful, but enjoyable as well. Good luck!
 * [Daniel Appelquist](http://overtheair.org) Over the Air
 * [Joe Nash](http://hacksocnotts.co.uk) HackSoc Nottingham founder &amp; organiser
 * [Adam Yeats](http://twitter.com/adamyeats) Developer Relations Engineer, Pusher
-* [Manoj Nathwani](http://manoj.ninja) Hackathon enthusiast, Banter Ventures
 * [Matt Stine](http://www.mattstine.com) Community Engineer, Cloud Foundry
 * [Mike Elsmore](http://elsmore.me) Hackference founder &amp; organiser
 * [Paolo Sinelli](http://www.whymca.org/) WhyMCA co-founder &amp; organiser
@@ -662,6 +661,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Klaus Bravenboer](http://www.hackhumanity.org) HackHumanity founder + organizer
 * [Andrew Seward](http://www.hack24.co.uk) Hack24 founder &amp; organizer
 * [Angus Fox](http://www.multizone.co.uk) CTO to go &amp; Product Manager &amp; Secretary, Social Developers London
+* [Manoj Nathwani](http://manoj.ninja) Hackathon enthusiast, Banter Ventures
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
