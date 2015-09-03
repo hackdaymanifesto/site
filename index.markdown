@@ -662,6 +662,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Andrew Seward](http://www.hack24.co.uk) Hack24 founder &amp; organizer
 * [Angus Fox](http://www.multizone.co.uk) CTO to go &amp; Product Manager &amp; Secretary, Social Developers London
 * [Manoj Nathwani](http://manoj.ninja) Hackathon enthusiast, Banter Ventures
+* [John Stevenson](http://jr0cket.co.uk) - [@jr0cket](https://twitter.com/jr0cket) Community Developer
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
