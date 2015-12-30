@@ -663,6 +663,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Angus Fox](http://www.multizone.co.uk) CTO to go &amp; Product Manager &amp; Secretary, Social Developers London
 * [Manoj Nathwani](http://manoj.ninja) Hackathon enthusiast, Banter Ventures
 * [John Stevenson](http://jr0cket.co.uk) - [@jr0cket](https://twitter.com/jr0cket) Community Developer
+* [Gunasekaran Sengodan](https://www.facebook.com/gunasekaran.sengodan) - [@skrgunasekaran](https://twitter.com/skrgunasekaran)  Sitecore &amp; Insite eCommerce Developer, Bangalore, India &amp; co-founder thamizhstudio.com &amp; vidhaiorganicstore.com 
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
