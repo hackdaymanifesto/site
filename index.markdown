@@ -120,6 +120,12 @@ Despite the stereotypes, most geeks like to keep clean. Only a few venues are
 able to provide showers - but if you can, you should. Make sure you tell
 attendees well in advance so they can bring towels and toiletries.
 
+##Sponsors, Funding, and Extras Like Swag
+Looking for sponsors? Reach out to local tech companies in your area on Twitter, Facebook, and Linkedin. Slide into some DMs, explain your goal or mission, and what they'll get out of it. Many companies have budgets and swag specifically for outreach events, particularly through their University/Recruiting teams. You can find specific emails on Linkedin, Twitter, GitHub, where many also link theirpersonal websites which contain ways to contact them, like email. 
+
+Many companies would also be willing and happy to send a mentor, speaker, or panelist to help the day of.
+
+Include signs with the company name, note them on the event page and website, and don't forget to send thank you's to them at the end of your event!
 ## Network
 
 ### Your 4MB DSL isn't enough
