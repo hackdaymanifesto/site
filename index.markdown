@@ -472,6 +472,18 @@ are likely to just disappoint the winning team. When organizations/individuals
 wish to pursue further development of a hack they should speak to the winning
 team separately.
 
+### Attitude to prize winners
+
+Those who have won a prize at a hack day should not be expected to provide any
+ongoing service or favours to sponsors or organisers. Some hack day sponsors
+have been known to ask prize winners to write promotional blog posts for them.
+This kind of behaviour from sponsors can make quite prize winning participants
+quite uncomfortable and unlikely to wish to participate in future events.
+
+What may seem natural to outgoing marketers and CEOs may feel a lot less
+pleasant for more shy and introverted (especially new) developers, designers
+etc.
+
 ## Atmosphere and attitudes
 
 ### Don't make people feel unwelcome
@@ -671,3 +683,4 @@ not just successful, but enjoyable as well. Good luck!
 
 [self]: http://hackdaymanifesto.com/ "The Hack Day Manifesto"
 [github]: https://github.com/hackdaymanifesto/hackdaymanifesto.github.com/ "Fork on GitHub"
+
