@@ -654,6 +654,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Scott Motte](http://scottmotte.com) Developer Evangelist, SendGrid
 * [Rob Finean](http://www.meetup.com/UK-Hackathons-and-Jams/) UK Hackathons &amp; Jams
 * [James Billingham](http://twitter.com/BillinghamJ)
+* [Josh Black](http://twitter.com/27percent)
 * [Tim Fogarty](http://twitter.com/tfogo) Major League Hacking UK, HackSoc Nottingham
 * [Ariel Waldman](http://arielwaldman.com) Global Instigator, Science Hack Day
 * [Dan Cunningham](http://hack4good.io) Head of Geeklist Corps of Developers + #hack4good global organiser
