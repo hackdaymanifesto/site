@@ -363,8 +363,8 @@ covering the event.  Hack submissions should be as straight forward as possible.
 You can use Google Docs, Etherpad or a wiki.  Make sure that all attendees have
 write access and can concurrently edit. Plan for the hack listing to stay around
 as a historical record.  Alternatively, there are hack submission services that
-will handle the logistics for you like [Hacker League](http://hackerleague.org/),
-[Hackathon.io](http://hackathon.io), or [WeHack.it](http://wehack.it/).
+will handle the logistics for you like [Hackathon.io](http://hackathon.io), 
+[WeHack.it](http://wehack.it/), or [Devpost](https://devpost.com/).
 
 Anyone who hacks should be a allowed to demo at the end of the event, regardless
 of the quality or completeness.
