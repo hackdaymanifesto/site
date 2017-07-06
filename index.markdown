@@ -36,7 +36,7 @@ granted attendance or not.
 If there's a waiting list for the event, make sure to explain how it works.
 
 Most registration forms lets applicants enter name, contact details and food
-preferences/allergies (if applicable), Depending on your event and your venue,
+preferences/allergies (if applicable). Depending on your event and your venue,
 you might want to ask for additional information - this manifesto lists a few
 other topics which might make sense to add to the registration form.
 
