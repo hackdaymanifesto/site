@@ -243,7 +243,7 @@ non-allergy based requirements. Common food allergies include milk, eggs,
 nuts, fish, shellfish, soya, and wheat (gluten).
 
 It's important to note that that vegan meals exclude all animal products, 
-not just meat, and therefore it should exclude eggs, cheese, milk, yoghurt 
+not just meat, and therefore it should exclude eggs, cheese, milk, yoghurt, honey 
 and much more.
 
 ### Breakfast
