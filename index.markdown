@@ -36,7 +36,7 @@ granted attendance or not.
 If there's a waiting list for the event, make sure to explain how it works.
 
 Most registration forms lets applicants enter name, contact details and food
-preferences/allergies (if applicable), to more details see the [Sustenance](#sustenance) section. See Depending on your event and your venue,
+preferences/allergies (if applicable), Depending on your event and your venue,
 you might want to ask for additional information - this manifesto lists a few
 other topics which might make sense to add to the registration form.
 
@@ -234,13 +234,17 @@ don't let one soldering iron knock out the power for the entire venue.
 
 ### Dietary requirements
 
-Not everyone in the technical community is hypercarnivorous. Be sure to check
-with your attendees for dietary requirements and be careful and gentle with this preferences, vegan is different from vegetarian and food intolerances and allergies can be [dangerous](https://en.wikipedia.org/wiki/Food_allergy). Check with your attendees if they are vegetarians,
-vegans or people with dietary restrictions. Make provisions to ensure
-they are provided for equally. If you're on a budget, prioritise
-allergies and vegan alternatives; the vegan alternative will satisfy
-most non-allergy based requirements. Common food allergies include milk,
-eggs, nuts, fish, shellfish, soya, and wheat (gluten).
+Not everyone in the technical community is hypercarnivorous. Be sure to 
+check with your attendees for dietary requirements: food allergies, 
+vegetarians, vegans and people with dietary restrictions. Make provisions 
+to ensure they are provided for equally. If you’re on a budget, prioritise 
+allergies and vegan alternatives; the vegan alternative will satisfy most 
+non-allergy based requirements. Common food allergies include milk, eggs, 
+nuts, fish, shellfish, soya, and wheat (gluten).
+
+It's important to note that that vegan meals exclude all animal products, 
+not just meat, and therefore it should exclude eggs, cheese, milk, yoghurt 
+and much more.
 
 ### Breakfast
 
