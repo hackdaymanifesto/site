@@ -234,13 +234,17 @@ don't let one soldering iron knock out the power for the entire venue.
 
 ### Dietary requirements
 
-Not everyone in the technical community is hypercarnivorous. Be sure to check
-with your attendees for dietary requirements: food allergies, vegetarians,
-vegans and people with dietary restrictions. Make provisions to ensure
-they are provided for equally. If you're on a budget, prioritise
-allergies and vegan alternatives; the vegan alternative will satisfy
-most non-allergy based requirements. Common food allergies include milk,
-eggs, nuts, fish, shellfish, soya, and wheat (gluten).
+Not everyone in the technical community is hypercarnivorous. Be sure to 
+check with your attendees for dietary requirements: food allergies, 
+vegetarians, vegans and people with dietary restrictions. Make provisions 
+to ensure they are provided for equally. If you’re on a budget, prioritise 
+allergies and vegan alternatives; the vegan alternative will satisfy most 
+non-allergy based requirements. Common food allergies include milk, eggs, 
+nuts, fish, shellfish, soya, and wheat (gluten).
+
+It's important to note that that vegan meals exclude all animal products, 
+not just meat, and therefore it should exclude eggs, cheese, milk, yoghurt, honey 
+and much more.
 
 ### Breakfast
 
