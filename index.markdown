@@ -234,16 +234,16 @@ don't let one soldering iron knock out the power for the entire venue.
 
 ### Dietary requirements
 
-Not everyone in the technical community is hypercarnivorous. Be sure to 
-check with your attendees for dietary requirements: food allergies, 
-vegetarians, vegans and people with dietary restrictions. Make provisions 
-to ensure they are provided for equally. If you’re on a budget, prioritise 
-allergies and vegan alternatives; the vegan alternative will satisfy most 
-non-allergy based requirements. Common food allergies include milk, eggs, 
+Not everyone in the technical community is hypercarnivorous. Be sure to
+check with your attendees for dietary requirements: food allergies,
+vegetarians, vegans and people with dietary restrictions. Make provisions
+to ensure they are provided for equally. If you’re on a budget, prioritise
+allergies and vegan alternatives; the vegan alternative will satisfy most
+non-allergy based requirements. Common food allergies include milk, eggs,
 nuts, fish, shellfish, soya, and wheat (gluten).
 
-It's important to note that that vegan meals exclude all animal products, 
-not just meat, and therefore it should exclude eggs, cheese, milk, yoghurt, honey 
+It's important to note that that vegan meals exclude all animal products,
+not just meat, and therefore it should exclude eggs, cheese, milk, yoghurt, honey
 and much more.
 
 ### Breakfast
@@ -367,7 +367,7 @@ covering the event.  Hack submissions should be as straight forward as possible.
 You can use Google Docs, Etherpad or a wiki.  Make sure that all attendees have
 write access and can concurrently edit. Plan for the hack listing to stay around
 as a historical record.  Alternatively, there are hack submission services that
-will handle the logistics for you like [Hackathon.io](http://hackathon.io), 
+will handle the logistics for you like [Hackathon.io](http://hackathon.io),
 [WeHack.it](http://wehack.it/), or [Devpost](https://devpost.com/).
 
 Anyone who hacks should be a allowed to demo at the end of the event, regardless
@@ -622,7 +622,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Jannette Mensch](http://design-mensch.de) IxD &amp; Hack Day participant
 * [Alexandre Passant](http://apassant.net) Music and Data Geek
 * [Paul Osman](http://paulosman.me) Developer Evangelist, SoundCloud
-* [Martyn Davies](http://martyndavies.net) Music Hack Day &amp; Developer Evangelist, SendGrid
+* [Martyn Davies](http://martyndavies.me) Coordinator, Music Hack Day
 * [Chase Southard](http://openlexington.org) OpenLexington
 * [James Darling](http://abscond.org/) Co-founder Music Hack Day and Rewired State
 * [Mattias Arrelid](http://arrelid.com/)
