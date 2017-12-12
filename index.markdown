@@ -670,6 +670,7 @@ not just successful, but enjoyable as well. Good luck!
 * [Gunasekaran Sengodan](https://www.facebook.com/gunasekaran.sengodan) - [@skrgunasekaran](https://twitter.com/skrgunasekaran)  Sitecore &amp; Insite eCommerce Developer, Bangalore, India &amp; co-founder thamizhstudio.com &amp; vidhaiorganicstore.com
 * [Ezequiel França](http://ezefranca.com) Brazilian Hackathon enthusiast, iOS Developer.
 * [Shakti Goap](https://hackinout.co) InOut Founder &amp; Lead Organizer
+* [Otacilio Maia](http://otaciliomaia.com) Brazilian, CoFounder and mantenedor @ReciHub; LocalHackDay.mlh.io organizer
 </div>
 
 [Fork this project on GitHub][github], add yourself, and send us a pull request.
