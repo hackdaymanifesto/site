@@ -583,11 +583,11 @@ not just successful, but enjoyable as well. Good luck!
 * [Daniel Knell](http://danielknell.co.uk/) Artisan of Code Ltd.
 * [Tom Morris](http://tommorris.org/)
 * [Kevin Prince](http://geeksoflondon.com/) Geeks of London
-* [Melinda Seckington](http://geeksoflondon.com/) Geeks of London
-* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London &amp; PayPal
+* [Melinda Seckington](http://geeksoflondon.com/) Geeks of London &amp; FutureLearn
+* [Cristiano Betta](http://geeksoflondon.com/) Geeks of London &amp; ex-PayPal
 * [Robert Lee-Cann](http://geeksoflondon.com/) Geeks of London
 * [Tom Scott](http://tomscott.com/)
-* [Hadley Beeman](http://linkedgov.org/) LinkedGov
+* [Hadley Beeman](http://linkedgov.org/) 
 * [Dom Hodgson](http://thehodge.co.uk) Leeds Hack
 * [Sheila Thomson](http://kaikoda.com) Kaikoda
 * [Jason Grant](http://flexewebs.com) Flexewebs
