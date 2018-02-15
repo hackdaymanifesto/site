@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+      <article>
+        <div class="center measure-wide f5 pt5 pb3 ph2 lh-copy">
+          <h1 class="f1 f-headline-l roboto-condensed">The Hack Day Manifesto</h1>
+          {{ 
+            this.body
+              |replace('<h1'|safe, '<h1 class="f2 lh-title roboto-condensed"'|safe)
+              |replace('<h2'|safe, '<h2 class="f3 roboto-condensed"'|safe)
+              |replace('<h3'|safe, '<h3 class="f4 roboto-condensed"'|safe)
+              |replace('<h4'|safe, '<h4 class="f5 roboto-condensed"'|safe)
+              |replace('<small>Optional</small>'|safe, '<small class="fr gray">Optional</small>'|safe)
+          }}
+        </div>
+
+
+        <div class="center measure-wide f5 pt5 pb3 ph2 lh-copy">
+          <h1 class="f2 lh-title roboto-condensed no-print">Supporters</h1>
+          <div class="flex flex-wrap no-print">
+{% for supporter in site.query('/supporters').include_undiscoverable(true).order_by('date', 'sort_key', 'name').all() %}
+            <div class="fl w-third pv3 pr2">
+              <p class="f5 b pa0 ma0 fw">
+{% if supporter.link %}
+                <a class="no-underline blue dim" href="{{ supporter.link }}">{{ supporter.name }}</a>
+{% else %}
+                {{ supporter.name }}
+{% endif %}
+              </p>
+              <p class="pa0 ma0 f6">{{ supporter.organisation }}</p>
+            </div>
+{% endfor %}
+          </div>
+          
+          <p class="tc">
+            <a class="no-underline blue dim" href="https://github.com/hackdaymanifesto/hackdaymanifesto.github.com/" title="Fork on GitHub">Fork this project on GitHub</a>, add yourself, and send us a pull request.
+          </p>
+        </div>
+      </article>
+
+{% endblock %}

@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  default:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "5000:5000"
+    environment:
+      LEKTOR_DEV: 1
+    # command: lektor server --host 0.0.0.0 -f webpack
