@@ -2,13 +2,8 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
       <article>
-        <div class="vh-100 dt w-100 tc bg-dark-gray white cover header-bg">
-          <div class="dtc v-mid">
-            <h1 class="f1 f-headline-l fw1 white-60 roboto-condensed">The Hack Day Manifesto</h1>
-          </div>
-        </div>
         <div class="center measure-wide f5 pt5 pb3 ph2 lh-copy">
-
+          <h1 class="f1 f-headline-l roboto-condensed">The Hack Day Manifesto</h1>
           {{ 
             this.body
               |replace('<h1'|safe, '<h1 class="f2 lh-title roboto-condensed"'|safe)
@@ -40,10 +35,6 @@
           <p class="tc">
             <a class="no-underline blue dim" href="https://github.com/hackdaymanifesto/hackdaymanifesto.github.com/" title="Fork on GitHub">Fork this project on GitHub</a>, add yourself, and send us a pull request.
           </p>
-        </div>
-
-        <div class="center measure-wide f6 pt5 pb3 ph2 tc no-print">
-          <span class="no-underline blue dim">Header image by <a href="https://www.flickr.com/photos/cubicgarden/9332070665/in/photostream/">Ian Forrester</a></span>
         </div>
       </article>
 
