@@ -1,1 +1,2 @@
-Lektor == 3.0.1
+Lektor == 3.3.6
+click == 8.1.2
