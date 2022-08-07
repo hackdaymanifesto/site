@@ -1,4 +1,4 @@
-# The Hackday Manifesto
+# The Hackday Manifesto
 
 ## Adding yourself as a supporter
 
@@ -26,20 +26,20 @@ link: https://example.com/
   <dd>If provided it will turn your name into a link in the supporters section</dd>
 </dl>
 
-Commit your changes, push them to github, create a pull request and one of our
+Commit your changes, push them to GitHub, create a pull request and one of our
 helpful contributors will have it merged in.
 
 ## Editing
 
 The manifesto content can be found in `content/contents.lr` and the body section
-is a markdown document.
+is a Markdown document.
 
 You can either edit the file in a text editor or launch the lektor admin and
 edit it from there.
 
 ## Running locally
 
-The hack day manifesto uses [Lektor](https://www.getlektor.com) to render the
+The Hackday Manifesto uses [Lektor](https://www.getlektor.com) to render the
 web content, and docker-compose to run locally.
 
 To get the development server running in order to see live previews of your
